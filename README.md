@@ -1,0 +1,2 @@
+# Sleep-Scheduling-Routing-Protocol-for-Under-water-Wireless-Sensor-Networks-Using-Mixed-Integer-Linea
+This is the code for an optimization algorithm for minimum energy consumption in UWSNs. The code was used in running simulations for a research which is submitted for publication in the IEEE IoT Journal. The title of the research paper is "A Sleep-Scheduling Oil Detection Routing Protocol for Smart Oceans using Internet of Things".
