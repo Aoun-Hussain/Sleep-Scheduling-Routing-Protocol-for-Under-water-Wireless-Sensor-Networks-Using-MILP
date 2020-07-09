@@ -12,6 +12,7 @@ def Optimize(rad, sen):
     relayConstraint = 121      ##Total relays to be deployed
     sensorList = []
     relayList = []
+    
 
     ##Populating sensorList and relayList
     for i in range(sen):
@@ -125,9 +126,9 @@ def Optimize(rad, sen):
     
     e_s_r = (Energy_s_r(sensorList,relayList))
     
-    ###print('Energy Matrix of Sensor x Relay layer', '\n')
-    ###for i in e_s_r:
-    ###    print(i)
+    # print('Energy Matrix of Sensor x Relay layer', '\n')
+    # for i in e_s_r:
+    #    print(i)
 
     ##Calculates the Energy matrix for relay x relay layer
     def Energy_r_r(RN):
@@ -269,9 +270,10 @@ def Optimize(rad, sen):
       
         Fin_Conn_S_R[s][r] = 1
         b = 0
-    ##print('Final Optimized Connectivity Matrix of Sensor x Relay layer: ', '\n')
-    ##for i in Fin_Conn_S_R:
-    ##    print(i)
+    # print('Final Optimized Connectivity Matrix of Sensor x Relay layer: ', '\n')
+    # for i in Fin_Conn_S_R:
+    #    print(i)
+       
 
     b = 0                ##used to keep track of the index number of the string
     for i in DeployedRelays_RR:
@@ -304,17 +306,17 @@ def Optimize(rad, sen):
 
     ##this part (above) is just to print and understand how the code works
                 
-#    print("Optimum Relays Used: ")
-#    print(sorted(connection),"\n")
-#    print("The Relay-Sensor dictionary: \n")
-#    print(connection, "\n")
-#    print ("Status:", LpStatus[Problem.status])
-#    print("Number of Candidate Location for Relays: ", len(relayList))
-#    print("Number of Sensors in the Network: ", len(sensorList))
-#    print('Number Of Relays Deployed on the Candidate Locations: ', len(connection))
-#    print("Communication Radius of the Each Node: ", R)
-#    print("Number of Base stations: ", 1)
-#    print("Time Taken to Calculate energy: ", t2-t1)
+    print("Optimum Relays Used: ")
+    print(sorted(connection),"\n")
+    print("The Relay-Sensor dictionary: \n")
+    print(connection, "\n")
+    print ("Status:", LpStatus[Problem.status])
+    print("Number of Candidate Location for Relays: ", len(relayList))
+    print("Number of Sensors in the Network: ", len(sensorList))
+    print('Number Of Relays Deployed on the Candidate Locations: ', len(connection))
+    print("Communication Radius of the Each Node: ", R)
+    print("Number of Base stations: ", 1)
+    print("Time Taken to Calculate energy: ", t2-t1)
     
     gamma = value(Problem.objective) ##total optimum energy without steiner problem
 #    print("Energy of the network before steiner node deployment: ", value(Problem.objective))
@@ -357,41 +359,72 @@ def Optimize(rad, sen):
 ##    print("Maximum Relay constraint of the Network: ", relayConstraint)
 ##    print("Total Energy of the network after steiner nodes: ", gamma)
 ##    print("Total Number of relays deployed after steiner nodes: ", len(x.nodes))
+    def simu_network():
+        #intial energy of a sensor 
+        init_e_s = 1
+        nw_e_s = [[init_e_s for j in range(len(relayList))] for i in range(len(sensorList))]
+
+        round = 0
+        dead_nw_flag =False
+        while(round<500 and not dead_nw_flag):
+            
+            #reducing the sensor energy.
+            for i in range(len(Fin_Conn_S_R)):
+                for j in range(len(Fin_Conn_S_R[0])):
+                    print(i, j)
+                    if(Fin_Conn_S_R[i][j]):
+                        if(nw_e_s[i][j] - e_s_r[i][j]<=0):
+                            dead_nw_flag = True
+
+                        nw_e_s[i][j] -= e_s_r[i][j]
+            round+=1
+        print(round)
+        return nw_e_s
+    network_energy_s = simu_network()
+    for i in network_energy_s:
+        print(i) 
     return len(x.nodes), gamma
 
 
-##running 100 simulations per configuration (Radius = 15)
-relays_15 = []
-energies_15 = []
-k = 100
-while k <= 1000:
-    for i in range(100):
-        relay, energy  = Optimize(15, k)
-        relays_15.append(relay)
-        energies_15.append(energy)
-    print('Radius = 15, Sensors = ', k)
-    print('Relays used:', sum(relays_15)/len(relays_15))
-    print('Energy used: ', sum(energies_15)/len(energies_15))
-    relays_15 = []
-    energies_15 = []
-    k += 100
+
+k =10
+relay, energy = Optimize(15, k)
+print('Radius = 15, Sensors = ', k)
+print('Relays used:', relay)
+print('Energy used: ', energy)
+
+# ##running 100 simulations per configuration (Radius = 15)
+# relays_15 = []
+# energies_15 = []
+# k = 100
+# while k <= 1000:
+#     for i in range(100):
+#         relay, energy  = Optimize(15, k)
+#         relays_15.append(relay)
+#         energies_15.append(energy)
+#     print('Radius = 15, Sensors = ', k)
+#     print('Relays used:', sum(relays_15)/len(relays_15))
+#     print('Energy used: ', sum(energies_15)/len(energies_15))
+#     relays_15 = []
+#     energies_15 = []
+#     k += 100
 
 
-##running 100 simulations per configuration (Radius = 30)
-k = 100
-relays_30 = []
-energies_30 = []
-while k <= 1000:
-    for i in range(100):
-        relay, energy  = Optimize(30, k)
-        relays_30.append(relay)
-        energies_30.append(energy)
-    print('Radius = 30, Sensors = ', k)
-    print('Relays used:', sum(relays_30)/len(relays_30))
-    print('Energy used: ', sum(energies_30)/len(energies_30))
-    relays_30 = []
-    energies_30 = []
-    k += 100
+# ##running 100 simulations per configuration (Radius = 30)
+# k = 100
+# relays_30 = []
+# energies_30 = []
+# while k <= 1000:
+#     for i in range(100):
+#         relay, energy  = Optimize(30, k)
+#         relays_30.append(relay)
+#         energies_30.append(energy)
+#     print('Radius = 30, Sensors = ', k)
+#     print('Relays used:', sum(relays_30)/len(relays_30))
+#     print('Energy used: ', sum(energies_30)/len(energies_30))
+#     relays_30 = []
+#     energies_30 = []
+#     k += 100
     
 
 
