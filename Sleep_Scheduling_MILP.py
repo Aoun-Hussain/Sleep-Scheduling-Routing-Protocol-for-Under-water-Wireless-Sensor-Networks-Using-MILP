@@ -359,30 +359,168 @@ def Optimize(rad, sen):
 ##    print("Maximum Relay constraint of the Network: ", relayConstraint)
 ##    print("Total Energy of the network after steiner nodes: ", gamma)
 ##    print("Total Number of relays deployed after steiner nodes: ", len(x.nodes))
-    def simu_network():
-        #intial energy of a sensor 
+    def Energy_s(SN,RN):
+        ### creates a matrix for sensor energy only
+        bandwidth = 100.0
+        Energy_Sensor = [[[0] for i in range(len(RN))] for j in range(len(SN))]
+        E_radio_S = 50.0 * (10 ** (-9))
+        # E_radio_R = 100.0 * (10 ** (-9))
+        Transmit_amplifier = 100.0 * (10 ** (-12))
+        for i in range(len(SN)):
+            for j in range(len(RN)):
+                dist = distance(abs(SN[i][0] - RN[j][0]), abs(SN[i][1] - RN[j][1]))
+                energy_sensor_tx = float(bandwidth * (E_radio_S + (Transmit_amplifier * (dist **2))))  ##energy used when sensor transmits data 
+                total_energy = energy_sensor_tx
+                Energy_Sensor[i][j] = total_energy/4                                             ##Only 1/4 sensors will be active per time unit for every relay
+        return Energy_Sensor
+
+    e_s = Energy_s(sensorList, relayList)
+
+    #creates a matrix of relay energy used in 1 round
+    def Energy_r(RN):
+        bandwidth_r = 200.0
+        bandwidth_s = 100.0
+        Energy_Relay_Relay = [[[0] for i in range(len(RN))] for j in range(len(RN))]
+
+        E_radio_R = 100.0 * (10 ** (-9))
+        Transmit_amplifier = 100.0 * (10 ** (-12))
+        for i in range(len(RN)):
+            for j in range(len(RN)):
+                dist = distance(abs(RN[i][0] - RN[j][0]), abs(RN[i][1] - RN[j][1]))
+                energy_relay_tx = float(bandwidth_r * (E_radio_R + (Transmit_amplifier * (dist**2))))  ##energy used when relay transmits data
+                energy_relay_rx = float(bandwidth_r * E_radio_R)                                       ##energy used when relay receives data 
+                energy_relay_rx_s = float(bandwidth_s* E_radio_R)
+                total_energy = (energy_relay_tx + energy_relay_rx +energy_relay_rx_s)
+                Energy_Relay_Relay[i][j] = total_energy
+                
+        return Energy_Relay_Relay
+    
+    e_r = Energy_r(relayList)
+
+    def init_Energy_r():
+        ### creates a matrix for the simulation to use (stores the energy of relays)
+        init_e_r = 1;                                                                           #intial energy of a relay node
+        nw_e_r = [[init_e_r for j in range(len(relayList))] for i in range(len(relayList))]
+        return nw_e_r
+
+    nw_e_r = init_Energy_r()
+
+    def init_Energy_s():
         init_e_s = 1
         nw_e_s = [[init_e_s for j in range(len(relayList))] for i in range(len(sensorList))]
+        return nw_e_s
 
-        round = 0
-        dead_nw_flag =False
-        while(round<500 and not dead_nw_flag):
+    nw_e_s = init_Energy_s()
+
+    #returns a matrix which contains the states of all the deployed sensors in the network 
+    def state_matrix(SN, RN, Fin_Conn_S_R):
+    
+        state_s = [[0 for j in range(len(RN))] for i in range(len(SN))]
+
+        for i in range(len(SN)):
+            for j in range(len(RN)):
+                if(Fin_Conn_S_R[i][j]==1):
+                    state_s[i][j] = 1
+        return state_s
+
+    state_s = state_matrix(sensorList, relayList, Fin_Conn_S_R)
+
+    def init_s_counter(state_s, Fin_conn_S_R):
+        #count all active sensors connected to a relay
+        #counter variable: contains a list of the format: [counter, starting_index_of1/4th_sensors,index_of_sensor1, index_of_sensor2,...]
+        s_counter = [[0, 0] for i in range(len(state_s[0]))]
+
+        for i in range(len(state_s[0])):
+            for j in range(len(state_s)):
+                if(Fin_conn_S_R[j][i]==1):
+                    s_counter[i][0]+=1
+                    s_counter[i].append(j) #stores the row index of the sensor
+        
+
+        
+        ##divide the counted values into 4 parts
+        for i in range(len(s_counter)):
+            s_counter[i][0] = s_counter[i][0]//4
+        return s_counter
+        
+    s_counter = init_s_counter(state_s, Fin_Conn_S_R)
+
+    def SRP_toggler(state_s,  s_counter):
+
+        
+        ##toggle 1/4 th sensors:
+
+        
+        #this loop iterates over a cluster of relay. j gives us the relay index
+        for j in range(len(s_counter)):
+            counter_temp = 0 
+            starting_sensor = 0
+            counter_temp = s_counter[j][0]
+            starting_sensor = s_counter[j][1]
+            ##check if all 4 batches have been activated. If so then reset the starting sensor
+            if(starting_sensor+counter_temp > len(s_counter)-3):
+                s_counter[j][1] = 0
+                starting_sensor = s_counter[j][1]
+            ##iterating over the list to turn off all sensors and turn on the 1/4th batch 
+            counting = 0  
+            starting_detected = False
+            for k in range(len(s_counter[0])):
+                ##skip the first two indexes as they contain the count and the starting point of the sensor batch
+                if(k >1):
+                    
+                    #check if the index is the starting point
+                    if(s_counter[j][k]==starting_sensor):
+                        starting_detected = True
+                    #check if the starting sensor is detected and 1/4th of the sensors are not activated. turn on the sensor 
+                    if(starting_detected and counting<=counter_temp):
+                        state_s[s_counter[j][k]][j] = 1
+                        counting+=1
+                    #else turn off the sensor
+                    else:
+                        state_s[s_counter[j][k]][j] = 0
+
+    
+                    
             
-            #reducing the sensor energy.
+            
+        
+
+        
+
+
+
+    def simu_network(nw_e_s, nw_e_r, state_s):
+        #intializing the rounds
+        round = 0
+
+        #running the simulation for n rounds
+        while(round < 1000):
+            #initializing dead sensors 
+            dead_s = 0     
+
+            #updating all sensors
             for i in range(len(Fin_Conn_S_R)):
                 for j in range(len(Fin_Conn_S_R[0])):
-                    print(i, j)
-                    if(Fin_Conn_S_R[i][j]):
-                        if(nw_e_s[i][j] - e_s_r[i][j]<=0):
-                            dead_nw_flag = True
-
-                        nw_e_s[i][j] -= e_s_r[i][j]
+                    #checking if the sensor is deployed as well as not asleep
+                    if(Fin_Conn_S_R[i][j]== 1 and state_s[i][j] == 1): 
+                        #check if a node died
+                        if(nw_e_s[i][j] - e_s[i][j]<=0):  
+                            dead_s+=1
+                        else: 
+                            nw_e_s[i][j] -= e_s[i][j] 
+            ##toggles the state_s matrix
+            SRP_toggler(state_s, s_counter)
+            ##update round
             round+=1
+
         print(round)
         return nw_e_s
-    network_energy_s = simu_network()
+
+    network_energy_s = simu_network(nw_e_s, nw_e_r, state_s)
+
     for i in network_energy_s:
         print(i) 
+    
     return len(x.nodes), gamma
 
 
