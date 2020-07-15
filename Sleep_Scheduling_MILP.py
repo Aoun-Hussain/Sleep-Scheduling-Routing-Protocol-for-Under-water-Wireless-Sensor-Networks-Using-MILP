@@ -9,7 +9,7 @@ import networkx as nx
 def Optimize(rad, sen):
     width = 100.0              ##100 by 100 meters of square field
     R = float(rad)             ##Radius of communication of each node
-    relayConstraint = 121      ##Total relays to be deployed
+    relayConstraint = 5      ##Total relays to be deployed
     sensorList = []
     relayList = []
     
@@ -120,7 +120,7 @@ def Optimize(rad, sen):
                 energy_sensor_tx = float(bandwidth * (E_radio_S + (Transmit_amplifier * (dist **2))))  ##energy used when sensor transmits data
                 energy_relay_rx = float(bandwidth * E_radio_R)                                         ##energy used when relay receives data 
                 total_energy = energy_sensor_tx + energy_relay_rx
-                Energy_Sensor_Relay[i][j] = total_energy/4                                             ##Only 1/4 sensors will be active per time unit for every relay
+                Energy_Sensor_Relay[i][j] = total_energy                                           ##Only 1/4 sensors will be active per time unit for every relay
                 
         return Energy_Sensor_Relay
     
@@ -359,7 +359,7 @@ def Optimize(rad, sen):
 ##    print("Maximum Relay constraint of the Network: ", relayConstraint)
 ##    print("Total Energy of the network after steiner nodes: ", gamma)
 ##    print("Total Number of relays deployed after steiner nodes: ", len(x.nodes))
-    def Energy_s(SN,RN):
+    def Energy_s(SN,RN): 
         ### creates a matrix for sensor energy only
         bandwidth = 100.0
         Energy_Sensor = [[[0] for i in range(len(RN))] for j in range(len(SN))]
@@ -371,7 +371,7 @@ def Optimize(rad, sen):
                 dist = distance(abs(SN[i][0] - RN[j][0]), abs(SN[i][1] - RN[j][1]))
                 energy_sensor_tx = float(bandwidth * (E_radio_S + (Transmit_amplifier * (dist **2))))  ##energy used when sensor transmits data 
                 total_energy = energy_sensor_tx
-                Energy_Sensor[i][j] = total_energy/4                                             ##Only 1/4 sensors will be active per time unit for every relay
+                Energy_Sensor[i][j] = total_energy                                             ##Only 1/4 sensors will be active per time unit for every relay
         return Energy_Sensor
 
     e_s = Energy_s(sensorList, relayList)
@@ -380,7 +380,7 @@ def Optimize(rad, sen):
     def Energy_r(RN):
         bandwidth_r = 200.0
         bandwidth_s = 100.0
-        Energy_Relay_Relay = [[[0] for i in range(len(RN))] for j in range(len(RN))]
+        Energy_Relay_Relay = [[(0, 0) for i in range(len(RN))] for j in range(len(RN))]
 
         E_radio_R = 100.0 * (10 ** (-9))
         Transmit_amplifier = 100.0 * (10 ** (-12))
@@ -390,8 +390,8 @@ def Optimize(rad, sen):
                 energy_relay_tx = float(bandwidth_r * (E_radio_R + (Transmit_amplifier * (dist**2))))  ##energy used when relay transmits data
                 energy_relay_rx = float(bandwidth_r * E_radio_R)                                       ##energy used when relay receives data 
                 energy_relay_rx_s = float(bandwidth_s* E_radio_R)
-                total_energy = (energy_relay_tx + energy_relay_rx +energy_relay_rx_s)
-                Energy_Relay_Relay[i][j] = total_energy
+                total_energy = (energy_relay_tx + energy_relay_rx )
+                Energy_Relay_Relay[i][j] = (total_energy, energy_relay_rx_s)
                 
         return Energy_Relay_Relay
     
@@ -445,50 +445,102 @@ def Optimize(rad, sen):
         
     s_counter = init_s_counter(state_s, Fin_Conn_S_R)
 
-    def SRP_toggler(state_s,  s_counter):
 
-        
-        ##toggle 1/4 th sensors:
+    def init_sensor_PH_value(SN):
+        ###initializes the PH values for all sensor nodes
+        PH_list_s = [7.2 for j in range(len(SN))]
+        return PH_list_s
+    
+    PH_list_sensors = init_sensor_PH_value(sensorList)
 
-        
-        #this loop iterates over a cluster of relay. j gives us the relay index
-        for j in range(len(s_counter)):
-            counter_temp = 0 
-            starting_sensor = 0
-            counter_temp = s_counter[j][0]
-            starting_sensor = s_counter[j][1]
-            ##check if all 4 batches have been activated. If so then reset the starting sensor
-            if(starting_sensor+counter_temp > len(s_counter)-3):
-                s_counter[j][1] = 0
-                starting_sensor = s_counter[j][1]
-            ##iterating over the list to turn off all sensors and turn on the 1/4th batch 
-            counting = 0  
-            starting_detected = False
-            for k in range(len(s_counter[0])):
-                ##skip the first two indexes as they contain the count and the starting point of the sensor batch
-                if(k >1):
-                    
-                    #check if the index is the starting point
-                    if(s_counter[j][k]==starting_sensor):
-                        starting_detected = True
-                    #check if the starting sensor is detected and 1/4th of the sensors are not activated. turn on the sensor 
-                    if(starting_detected and counting<=counter_temp):
-                        state_s[s_counter[j][k]][j] = 1
-                        counting+=1
-                    #else turn off the sensor
-                    else:
-                        state_s[s_counter[j][k]][j] = 0
+    def Master_PH_checker(PH_list_sensors, Fin_Conn_S_R, state_s):
+        ###checks the pH of all sensor nodes. 
+        Clusters_with_oil_spills = [] ##contains all relay indexes where oil spill was detected
+        for i in range(len(Fin_Conn_S_R[0])):
+            for j in range(len(Fin_Conn_S_R)):
+                pH_value = PH_list_sensors[j] ##ph of the sensor
+                if (Fin_Conn_S_R[j][i]==1 and state_s[j][i] ==1 and pH_value >8.5 and pH_value <6.5): ##check if the pH is not normal and the relay is connected to the sensor and the sensor is turned on
+                    print("alert")
+                    Clusters_with_oil_spills.append(i)
+        return Clusters_with_oil_spills
+
+    def PH_checker(PH_list_sensors, Fin_Conn_S_R, state_s, cluster_head):
+        for i in range(len(PH_list_sensors)):
+            if(Fin_Conn_S_R[i][cluster_head]==1 and state_s[i][cluster_head]==1 and PH_list_sensor[i]>6.5 and PH_list_sensor[i]<8.5): ##check if sensor and relay are connected and switched on and pH level is exceded
+                return True ##if spill detected
+            else:
+                return False ## if spill not detected
+
+    def add_neighbour(Cluster_head, Fin_Conn_R_R, checked): ##cluster_head contains the index of that relay which cluster detects oil leaks
+        neighbor_relays = []
+        for i in range(len(Fin_Conn_R_R)): #checking for the relays connected to the "Cluster_head" relay
+            possible_neighbor = Fin_Conn_R_R[i][Cluster_head]
+            if(possible_neighbor==1 and (possible_neighbor not in checked)): ##if there is a 1, then the relays are neighbors!
+                neighbor_relays.append(i)
+        return neighbor_relays
+    
+
 
     
-                    
-            
-            
-        
+
+    def SRP_toggler(state_s,  s_counter, PH_list_sensors, Fin_Conn_S_R, Fin_Conn_R_R):
 
         
+        ### The following code is divided into 2 blocks.
+        #Block 1 is for Normal operation of SRP and Block 2 is behaviour after oil detection 
+        
+        ### Block 1:
+        oil_affected_relays = Master_PH_checker(PH_list_sensors, Fin_Conn_S_R, state_s)
+        if (oil_affected_relays==[]):##if no oil spill detected then run normal operation
+            
+            ##toggle 1/4 th sensors:
+            #this loop iterates over a cluster of relay. j gives us the relay index
+            for j in range(len(s_counter)):
+                counter_temp = 0 
+                starting_sensor = 0
+                counter_temp = s_counter[j][0]
+                starting_sensor = s_counter[j][1]
+                ##check if all 4 batches have been activated. If so then reset the starting sensor
+                if(starting_sensor+counter_temp > len(s_counter)-3):
+                    s_counter[j][1] = 0
+                    starting_sensor = s_counter[j][1]
+                ##iterating over the list to turn off all sensors and turn on the 1/4th batch 
+                counting = 0  
+                starting_detected = False
+                for k in range(len(s_counter[0])):
+                    ##skip the first two indexes as they contain the count and the starting point of the sensor batch
+                    if(k >1):
+                        
+                        #check if the index is the starting point
+                        if(s_counter[j][k]==starting_sensor):
+                            starting_detected = True
+                        #check if the starting sensor is detected and 1/4th of the sensors are not activated. turn on the sensor 
+                        if(starting_detected and counting<=counter_temp):
+                            state_s[s_counter[j][k]][j] = 1
+                            counting+=1
+                        #else turn off the sensor
+                        else:
+                            state_s[s_counter[j][k]][j] = 0
+        else:
+            #turn on all sensors in the oil detected relays:
+            for i in oil_affected_relays: 
+                for j in range(len(state_s)):
+                    if(Fin_Conn_R_R[j][i]==1): #check if the sensor is connected to the relay
+                        ##turn it on:
+                        state_s[j][i] = 1
+
+            #alert its neighbors and add their neighbors to the oil_affected_relays list: 
+            oil_affected_temp = oil_affected_relays[:]
+            while(oil_affected_temp!=[]):
+                check_cluster = oil_affected_temp.pop(0) ##cluster to be checked for spill
+                if(PH_checker(PH_list_sensors, Fin_Conn_S_R, state_s, check_cluster)): ##if true then check neighbors aswell 
+
+                    oil_affected_relays.append(add_neighbour(check_cluster, Fin_Conn_R_R, oil_affected_relays))
+            
 
 
 
+    
     def simu_network(nw_e_s, nw_e_r, state_s):
         #intializing the rounds
         round = 0
@@ -497,19 +549,43 @@ def Optimize(rad, sen):
         while(round < 1000):
             #initializing dead sensors 
             dead_s = 0     
-
+            dead_r = 0
             #updating all sensors
-            for i in range(len(Fin_Conn_S_R)):
-                for j in range(len(Fin_Conn_S_R[0])):
+            ##this loop iterates over all the relays
+            for i in range(len(Fin_Conn_S_R[0])):
+                ##this loop iterates over all sensors
+                for j in range(len(Fin_Conn_S_R)):
                     #checking if the sensor is deployed as well as not asleep
-                    if(Fin_Conn_S_R[i][j]== 1 and state_s[i][j] == 1): 
+                    if(Fin_Conn_S_R[j][i]== 1 and state_s[j][i] == 1): 
                         #check if a node died
-                        if(nw_e_s[i][j] - e_s[i][j]<=0):  
+                        if(nw_e_s[j][i] - e_s[j][i]<=0):  
                             dead_s+=1
                         else: 
-                            nw_e_s[i][j] -= e_s[i][j] 
-            ##toggles the state_s matrix
-            SRP_toggler(state_s, s_counter)
+                            ##transmit data to the relay 
+                            nw_e_s[j][i] -= e_s[j][i] 
+                            
+                            
+                        
+                ##this loop iterates over all relays connected to i'th relay
+                for k in range(len(Fin_Conn_R_R)):
+                    ##check if the two relays are connected. If yes then exchange data
+                    if(Fin_Conn_R_R[k][i] == 1):
+                        #check if node is dead:
+                        if ((nw_e_r[k][i] - e_r[k][i][0] <0)):
+                            dead_r+=1
+                        else:
+                            nw_e_r[k][i] -= e_r[k][i][0]
+                            #check for connected sensors:
+                            #this loop checks for connected sensors to a relay
+                            for l in range(len(Fin_Conn_S_R)):
+                                if(Fin_Conn_S_R[l][k]==1 and state_s[l][k] ==1):
+                                    nw_e_r[k][i]-=  e_r[k][i][1] ##receive data from sensor
+            
+
+                    
+
+            ##toggles the state of the sensors (SRP implimented here)
+            SRP_toggler(state_s, s_counter, PH_list_sensors, Fin_Conn_S_R, Fin_Conn_R_R)
             ##update round
             round+=1
 
@@ -525,7 +601,7 @@ def Optimize(rad, sen):
 
 
 
-k =10
+k =5
 relay, energy = Optimize(15, k)
 print('Radius = 15, Sensors = ', k)
 print('Relays used:', relay)
