@@ -7,7 +7,7 @@ import networkx as nx
 
 
 def Optimize(rad, sen):
-    width = 100.0              ##100 by 100 meters of square field
+    width = 20.0              ##100 by 100 meters of square field
     R = float(rad)             ##Radius of communication of each node
     relayConstraint = 5      ##Total relays to be deployed
     sensorList = []
@@ -384,14 +384,15 @@ def Optimize(rad, sen):
 
         E_radio_R = 100.0 * (10 ** (-9))
         Transmit_amplifier = 100.0 * (10 ** (-12))
+        E_aggregation = 0.00001 ##aggregation energy
         for i in range(len(RN)):
             for j in range(len(RN)):
                 dist = distance(abs(RN[i][0] - RN[j][0]), abs(RN[i][1] - RN[j][1]))
                 energy_relay_tx = float(bandwidth_r * (E_radio_R + (Transmit_amplifier * (dist**2))))  ##energy used when relay transmits data
                 energy_relay_rx = float(bandwidth_r * E_radio_R)                                       ##energy used when relay receives data 
                 energy_relay_rx_s = float(bandwidth_s* E_radio_R)
-                total_energy = (energy_relay_tx + energy_relay_rx )
-                Energy_Relay_Relay[i][j] = (total_energy, energy_relay_rx_s)
+                total_energy = (energy_relay_tx + energy_relay_rx)
+                Energy_Relay_Relay[i][j] = (total_energy, energy_relay_rx_s, E_aggregation)
                 
         return Energy_Relay_Relay
     
@@ -399,15 +400,25 @@ def Optimize(rad, sen):
 
     def init_Energy_r():
         ### creates a matrix for the simulation to use (stores the energy of relays)
-        init_e_r = 1;                                                                           #intial energy of a relay node
-        nw_e_r = [[init_e_r for j in range(len(relayList))] for i in range(len(relayList))]
+        init_e_r = 0.05;   
+        nw_e_r = [[0 for j in range(len(relayList))] for i in range(len(relayList))]
+        for i in range(len(relayList)):
+            for j in range(len(relayList)):
+                if(Fin_Conn_R_R[i][j]==1):
+                    nw_e_r[i][j]=init_e_r                                                  
+        
         return nw_e_r
 
     nw_e_r = init_Energy_r()
 
     def init_Energy_s():
-        init_e_s = 1
-        nw_e_s = [[init_e_s for j in range(len(relayList))] for i in range(len(sensorList))]
+        init_e_s = 0.005
+        nw_e_s = [[0 for j in range(len(relayList))] for i in range(len(sensorList))]
+        for i in range(len(sensorList)):
+            for j in range(len(relayList)):
+                if(Fin_Conn_S_R[i][j]==1):
+                    nw_e_s[i][j]=init_e_s
+        
         return nw_e_s
 
     nw_e_s = init_Energy_s()
@@ -490,9 +501,10 @@ def Optimize(rad, sen):
         #Block 1 is for Normal operation of SRP and Block 2 is behaviour after oil detection 
         
         ### Block 1:
+        print("check for oil leaks:")
         oil_affected_relays = Master_PH_checker(PH_list_sensors, Fin_Conn_S_R, state_s)
         if (oil_affected_relays==[]):##if no oil spill detected then run normal operation
-            
+            print("No leaks detected.\n proceed to normal protocol")
             ##toggle 1/4 th sensors:
             #this loop iterates over a cluster of relay. j gives us the relay index
             for j in range(len(s_counter)):
@@ -523,20 +535,23 @@ def Optimize(rad, sen):
                             state_s[s_counter[j][k]][j] = 0
         else:
             #turn on all sensors in the oil detected relays:
+            print("Oil leak detected. Turning on all sensors in all affected clusters")
             for i in oil_affected_relays: 
                 for j in range(len(state_s)):
                     if(Fin_Conn_R_R[j][i]==1): #check if the sensor is connected to the relay
                         ##turn it on:
-                        state_s[j][i] = 1
-
+                        state_s[j][i] = 1 
+            print("check neighboring cluster heads PH")
             #alert its neighbors and add their neighbors to the oil_affected_relays list: 
             oil_affected_temp = oil_affected_relays[:]
             while(oil_affected_temp!=[]):
+                print("in loop")
                 check_cluster = oil_affected_temp.pop(0) ##cluster to be checked for spill
                 if(PH_checker(PH_list_sensors, Fin_Conn_S_R, state_s, check_cluster)): ##if true then check neighbors aswell 
-
-                    oil_affected_relays.append(add_neighbour(check_cluster, Fin_Conn_R_R, oil_affected_relays))
-            
+                    new_clusters = add_neighbour(check_cluster, Fin_Conn_R_R, oil_affected_relays)
+                    oil_affected_relays.append(new_clusters) ##add to the master relay list
+                    oil_affected_relays.append(new_clusters) ##add to the temp relay list for stack implimentation
+                    
 
 
 
@@ -544,45 +559,87 @@ def Optimize(rad, sen):
     def simu_network(nw_e_s, nw_e_r, state_s):
         #intializing the rounds
         round = 0
-
+        dead_s = 0  
+        dead_r = 0
         #running the simulation for n rounds
-        while(round < 1000):
+        while(True):
             #initializing dead sensors 
-            dead_s = 0     
-            dead_r = 0
+            print("ROUND: ", round)
+            # if(dead_r>0):
+            #     # print("Ah ha!")
+            #     break
             #updating all sensors
             ##this loop iterates over all the relays
+            # print("sending/receiving data")
             for i in range(len(Fin_Conn_S_R[0])):
                 ##this loop iterates over all sensors
+                # print("sending data from sensor")
                 for j in range(len(Fin_Conn_S_R)):
-                    #checking if the sensor is deployed as well as not asleep
+                    #checking if the sensor is deployed as well as not asleep as well as not dead
+                    
                     if(Fin_Conn_S_R[j][i]== 1 and state_s[j][i] == 1): 
                         #check if a node died
-                        if(nw_e_s[j][i] - e_s[j][i]<=0):  
+                        if(nw_e_s[j][i]- e_s[j][i] <=0):  
+                            print("sensor ", j, " died")
+                            Fin_Conn_S_R[j][i]=0 ##sensor dies
                             dead_s+=1
                         else: 
                             ##transmit data to the relay 
+                            print("transmission energy: ", e_s[j][i], " residual energy of sensor: ", nw_e_s[j][i]-e_s[j][i])
                             nw_e_s[j][i] -= e_s[j][i] 
                             
                             
-                        
+                # print("sending/receiving data on relays")
                 ##this loop iterates over all relays connected to i'th relay
                 for k in range(len(Fin_Conn_R_R)):
                     ##check if the two relays are connected. If yes then exchange data
+                    # print("checking relay connection", Fin_Conn_R_R[k][i])
                     if(Fin_Conn_R_R[k][i] == 1):
                         #check if node is dead:
-                        if ((nw_e_r[k][i] - e_r[k][i][0] <0)):
+                        # print("connection relay found")
+                        if (nw_e_r[k][i] - e_r[k][i][0] <= 0):
+                            Fin_Conn_R_R[k][i]=0
+                            for m in range(len(Fin_Conn_S_R)):##turn off all sensors connected to the relays
+                                if(Fin_Conn_S_R[m][i]!=0):
+                                    Fin_Conn_S_R[m][i] = 0
+                                    dead_s+=1
+                            print("A relay with energy: ", nw_e_r[k][i], "died")
                             dead_r+=1
                         else:
+                            print("transmission energy: ", e_r[k][i], " residual energy of relay: ", nw_e_s[k][i]-e_s[k][i])
                             nw_e_r[k][i] -= e_r[k][i][0]
                             #check for connected sensors:
                             #this loop checks for connected sensors to a relay
-                            for l in range(len(Fin_Conn_S_R)):
-                                if(Fin_Conn_S_R[l][k]==1 and state_s[l][k] ==1):
-                                    nw_e_r[k][i]-=  e_r[k][i][1] ##receive data from sensor
-            
+                            for l in range(len(Fin_Conn_S_R)): #gives index of sensor
+                                if(Fin_Conn_S_R[l][i]==1 and state_s[l][i] ==1):
+                                    if((nw_e_r[k][i] - e_r[k][i][1])>0):
+                                        print("receival energy: ", e_r[k][i], " residual energy of relay: ", nw_e_r[k][i]-e_r[k][i][1])
+                                        nw_e_r[k][i]-=  e_r[k][i][1]            ##receive data from sensor
+                                    else:
+                                        Fin_Conn_R_R[k][i]=0
+                                        dead_r+=1
+                                        
 
-                    
+                ##This loop aggregates data
+                for m in range(len(Fin_Conn_R_R)):
+                    if(Fin_Conn_S_R[m][i]==1):
+                        nw_e_r[m][i]-=e_r[m][i][2]
+
+
+            dead_s_pc = (dead_s/sen)*100
+            dead_r_pc = (dead_r/relayConstraint)*100
+            dead_nw_pc =( dead_s_pc + dead_r_pc)/2
+            print("Dead Network pc: ", dead_nw_pc, " %")
+            print("Dead Sensor pc: ", dead_s_pc, " %")
+            print("Dead relays pc: ", dead_r_pc, " %")
+            if( dead_s_pc > 90 or dead_r_pc >90):
+                break 
+            # print("Energy matrix Relay:")
+            # for x in e_r:
+            #     print(x)
+            # print("Energy matrix Sensor:")
+            # for x in e_s:
+            #     print(x)
 
             ##toggles the state of the sensors (SRP implimented here)
             SRP_toggler(state_s, s_counter, PH_list_sensors, Fin_Conn_S_R, Fin_Conn_R_R)
@@ -601,9 +658,10 @@ def Optimize(rad, sen):
 
 
 
-k =5
-relay, energy = Optimize(15, k)
-print('Radius = 15, Sensors = ', k)
+k =10
+radius = 30
+relay, energy = Optimize(radius, k)
+print('Radius =', radius,  ', Sensors = ', k)
 print('Relays used:', relay)
 print('Energy used: ', energy)
 
