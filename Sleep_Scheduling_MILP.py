@@ -6,10 +6,11 @@ from networkx.algorithms.approximation.steinertree import steiner_tree
 import networkx as nx
 
 
+
 def Optimize(rad, sen):
-    width = 20.0              ##100 by 100 meters of square field
+    width = 100.0              ##100 by 100 meters of square field
     R = float(rad)             ##Radius of communication of each node
-    relayConstraint = 5      ##Total relays to be deployed
+    relayConstraint = 121      ##Total relays to be deployed
     sensorList = []
     relayList = []
     
@@ -501,10 +502,10 @@ def Optimize(rad, sen):
         #Block 1 is for Normal operation of SRP and Block 2 is behaviour after oil detection 
         
         ### Block 1:
-        print("check for oil leaks:")
+        # print("check for oil leaks:")
         oil_affected_relays = Master_PH_checker(PH_list_sensors, Fin_Conn_S_R, state_s)
         if (oil_affected_relays==[]):##if no oil spill detected then run normal operation
-            print("No leaks detected.\n proceed to normal protocol")
+            # print("No leaks detected.\n proceed to normal protocol")
             ##toggle 1/4 th sensors:
             #this loop iterates over a cluster of relay. j gives us the relay index
             for j in range(len(s_counter)):
@@ -558,13 +559,21 @@ def Optimize(rad, sen):
     
     def simu_network(nw_e_s, nw_e_r, state_s):
         #intializing the rounds
+        file = open("myfile.txt", "a")
+        file.write("sensors: " +str(sen) +"\n")
+        file.write("Relays: " + str(len(connection)) +"\n")
+        file.write(str(connection))
+        file.write("\n")
+
         round = 0
         dead_s = 0  
         dead_r = 0
+        
         #running the simulation for n rounds
         while(True):
             #initializing dead sensors 
             print("ROUND: ", round)
+            file.write("ROUND: " + str(round)+ "\n")
             # if(dead_r>0):
             #     # print("Ah ha!")
             #     break
@@ -580,12 +589,16 @@ def Optimize(rad, sen):
                     if(Fin_Conn_S_R[j][i]== 1 and state_s[j][i] == 1): 
                         #check if a node died
                         if(nw_e_s[j][i]- e_s[j][i] <=0):  
-                            print("sensor ", j, " died")
+                            # print("sensor ", j, " died")
+                            # strings = "sensor " + str(j) + " died" +"\n"
+                            # file.write(strings)
                             Fin_Conn_S_R[j][i]=0 ##sensor dies
                             dead_s+=1
                         else: 
                             ##transmit data to the relay 
-                            print("transmission energy: ", e_s[j][i], " residual energy of sensor: ", nw_e_s[j][i]-e_s[j][i])
+                            # print("transmission energy: ", e_s[j][i], " residual energy of sensor: ", nw_e_s[j][i]-e_s[j][i])
+                            # strings = "transmission energy: " + str(e_s[j][i]) +" residual energy of sensor: " +str(nw_e_s[j][i]-e_s[j][i]) +"\n"
+                            # file.write(strings)
                             nw_e_s[j][i] -= e_s[j][i] 
                             
                             
@@ -603,21 +616,31 @@ def Optimize(rad, sen):
                                 if(Fin_Conn_S_R[m][i]!=0):
                                     Fin_Conn_S_R[m][i] = 0
                                     dead_s+=1
-                            print("A relay with energy: ", nw_e_r[k][i], "died")
+                            # print("A relay with energy: ", nw_e_r[k][i], "died")
+                            # strings = "A relay with energy: "+str(nw_e_r[k][i]) +"died" + "\n"
+                            # file.write(strings)
                             dead_r+=1
                         else:
-                            print("transmission energy: ", e_r[k][i], " residual energy of relay: ", nw_e_s[k][i]-e_s[k][i])
+                            # print("transmission energy: ", e_r[k][i], " residual energy of relay: ", nw_e_s[k][i]-e_s[k][i])
+                            # strings = "transmission energy: " +str(e_r[k][i])+ " residual energy of relay: "+ str(nw_e_s[k][i]-e_s[k][i]) +"\n"
+                            # file.write(strings)
                             nw_e_r[k][i] -= e_r[k][i][0]
                             #check for connected sensors:
                             #this loop checks for connected sensors to a relay
                             for l in range(len(Fin_Conn_S_R)): #gives index of sensor
                                 if(Fin_Conn_S_R[l][i]==1 and state_s[l][i] ==1):
-                                    if((nw_e_r[k][i] - e_r[k][i][1])>0):
-                                        print("receival energy: ", e_r[k][i], " residual energy of relay: ", nw_e_r[k][i]-e_r[k][i][1])
+                                    if((nw_e_r[k][i] - e_r[k][i][1]) > 0):
+                                        # print("receival energy: ", e_r[k][i], " residual energy of relay: ", nw_e_r[k][i]-e_r[k][i][1])
+                                        # strings = "receival energy: "+ str(e_r[k][i])+ " residual energy of relay: "+ str(nw_e_r[k][i]-e_r[k][i][1]) +"\n"
+                                        # file.write(strings)
                                         nw_e_r[k][i]-=  e_r[k][i][1]            ##receive data from sensor
                                     else:
                                         Fin_Conn_R_R[k][i]=0
                                         dead_r+=1
+                                        for m in range(len(Fin_Conn_S_R)):##turn off all sensors connected to the relays
+                                            if(Fin_Conn_S_R[m][i]!=0):
+                                                Fin_Conn_S_R[m][i] = 0
+                                                dead_s+=1
                                         
 
                 ##This loop aggregates data
@@ -627,11 +650,20 @@ def Optimize(rad, sen):
 
 
             dead_s_pc = (dead_s/sen)*100
-            dead_r_pc = (dead_r/relayConstraint)*100
+            # print("dead relays: ", dead_r)
+            strings = "dead relays: " + str(dead_r) +"\n"
+            file.write(strings)
+            dead_r_pc = (dead_r/len(connection))*100
             dead_nw_pc =( dead_s_pc + dead_r_pc)/2
-            print("Dead Network pc: ", dead_nw_pc, " %")
-            print("Dead Sensor pc: ", dead_s_pc, " %")
-            print("Dead relays pc: ", dead_r_pc, " %")
+            # print("Dead Network pc: ", dead_nw_pc, " %")
+            strings = "Dead Network pc: " + str(dead_nw_pc) + " % \n"
+            file.write(strings)
+            # print("Dead Sensor pc: ", dead_s_pc, " %")
+            strings = "Dead Sensor pc: "+ str(dead_s_pc) + " % \n"
+            file.write(strings)
+            # print("Dead relays pc: ", dead_r_pc, " %")
+            strings = "Dead relays pc: "+ str(dead_r_pc)+ " % \n"
+            file.write(strings)
             if( dead_s_pc > 90 or dead_r_pc >90):
                 break 
             # print("Energy matrix Relay:")
@@ -647,18 +679,26 @@ def Optimize(rad, sen):
             round+=1
 
         print(round)
+        file.close()
         return nw_e_s
 
     network_energy_s = simu_network(nw_e_s, nw_e_r, state_s)
-
+    file = open("myfile.txt", "a")
+    file.write("sensor residual matrix")
     for i in network_energy_s:
+        file.write(str(i))
+        file.write("\n")
         print(i) 
-    
+    file.write("Total energy used: "+ str(gamma) +"\n")
+    file.close()
+
+
+
     return len(x.nodes), gamma
 
 
 
-k =10
+k =300
 radius = 30
 relay, energy = Optimize(radius, k)
 print('Radius =', radius,  ', Sensors = ', k)
