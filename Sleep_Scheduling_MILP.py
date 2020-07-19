@@ -10,7 +10,7 @@ import networkx as nx
 def Optimize(rad, sen):
     width = 100.0              ##100 by 100 meters of square field
     R = float(rad)             ##Radius of communication of each node
-    relayConstraint = 121      ##Total relays to be deployed
+    relayConstraint = 121    ##Total relays to be deployed
     sensorList = []
     relayList = []
     
@@ -18,7 +18,7 @@ def Optimize(rad, sen):
     ##Populating sensorList and relayList
     for i in range(sen):
         sensorList.append((round(random.uniform(0.0,width),6),round(random.uniform(0.0,width),6)))
-
+        print(sensorList)
 
     row = 0
     col = 0
@@ -440,7 +440,7 @@ def Optimize(rad, sen):
     def init_s_counter(state_s, Fin_conn_S_R):
         #count all active sensors connected to a relay
         #counter variable: contains a list of the format: [counter, starting_index_of1/4th_sensors,index_of_sensor1, index_of_sensor2,...]
-        s_counter = [[0, 0] for i in range(len(state_s[0]))]
+        s_counter = [[0, 2] for i in range(len(state_s[0]))]
 
         for i in range(len(state_s[0])):
             for j in range(len(state_s)):
@@ -452,11 +452,14 @@ def Optimize(rad, sen):
         
         ##divide the counted values into 4 parts
         for i in range(len(s_counter)):
-            s_counter[i][0] = s_counter[i][0]//4
+            if((s_counter[i][0]//4 )!=0): ##if s_counter divided by 4 gives 0, then take all sensonrs in one round only
+                s_counter[i][0] = s_counter[i][0]//4
         return s_counter
-        
+    
     s_counter = init_s_counter(state_s, Fin_Conn_S_R)
-
+    print("s_counter: ")
+    for i in s_counter:
+        print(i)
 
     def init_sensor_PH_value(SN):
         ###initializes the PH values for all sensor nodes
@@ -469,21 +472,32 @@ def Optimize(rad, sen):
         ###checks the pH of all sensor nodes. 
         Clusters_with_oil_spills = [] ##contains all relay indexes where oil spill was detected
         for i in range(len(Fin_Conn_S_R[0])):
+            aggregated_PH = 0
+            no_of_sensors = 0
             for j in range(len(Fin_Conn_S_R)):
                 pH_value = PH_list_sensors[j] ##ph of the sensor
-                if (Fin_Conn_S_R[j][i]==1 and state_s[j][i] ==1 and pH_value >8.5 and pH_value <6.5): ##check if the pH is not normal and the relay is connected to the sensor and the sensor is turned on
-                    print("alert")
+                # print(pH_value)
+                if (Fin_Conn_S_R[j][i]==1 and state_s[j][i] ==1): ##check if the pH is not normal and the relay is connected to the sensor and the sensor is turned on
+                    aggregated_PH+= pH_value
+                    no_of_sensors+=1
+                    
+            if(no_of_sensors!=0):
+                
+                aggregated_PH = float(aggregated_PH)/float(no_of_sensors)
+                if(aggregated_PH>8.5):##if aggregated_PH is greater than 8.5 than an oil spill is detected
                     Clusters_with_oil_spills.append(i)
+            
         return Clusters_with_oil_spills
 
     def PH_checker(PH_list_sensors, Fin_Conn_S_R, state_s, cluster_head):
         for i in range(len(PH_list_sensors)):
-            if(Fin_Conn_S_R[i][cluster_head]==1 and state_s[i][cluster_head]==1 and PH_list_sensor[i]>6.5 and PH_list_sensor[i]<8.5): ##check if sensor and relay are connected and switched on and pH level is exceded
+            if(Fin_Conn_S_R[i][cluster_head]==1 and state_s[i][cluster_head]==1 and (PH_list_sensors[i]>6.5)): ##check if sensor and relay are connected and switched on and pH level is exceded
                 return True ##if spill detected
             else:
                 return False ## if spill not detected
 
     def add_neighbour(Cluster_head, Fin_Conn_R_R, checked): ##cluster_head contains the index of that relay which cluster detects oil leaks
+        ##checks and returns neigbouring clusters to a cluster
         neighbor_relays = []
         for i in range(len(Fin_Conn_R_R)): #checking for the relays connected to the "Cluster_head" relay
             possible_neighbor = Fin_Conn_R_R[i][Cluster_head]
@@ -491,6 +505,19 @@ def Optimize(rad, sen):
                 neighbor_relays.append(i)
         return neighbor_relays
     
+
+    def oil_simulator(Fin_Conn_S_R, sensorList, PH_list_sensors):
+        xrange = 50
+        yrange = 50 
+        oil_spill_PH = 10 ## pH value of oil
+        for i in range(len(sensorList)):
+            print(sensorList[i])
+            if (sensorList[i][0] <=xrange and sensorList[i][1] <=yrange):
+                PH_list_sensors[i] = oil_spill_PH
+
+
+
+
 
 
     
@@ -504,37 +531,44 @@ def Optimize(rad, sen):
         ### Block 1:
         # print("check for oil leaks:")
         oil_affected_relays = Master_PH_checker(PH_list_sensors, Fin_Conn_S_R, state_s)
+        print(oil_affected_relays)
+        
         if (oil_affected_relays==[]):##if no oil spill detected then run normal operation
             # print("No leaks detected.\n proceed to normal protocol")
             ##toggle 1/4 th sensors:
             #this loop iterates over a cluster of relay. j gives us the relay index
             for j in range(len(s_counter)):
-                counter_temp = 0 
-                starting_sensor = 0
                 counter_temp = s_counter[j][0]
                 starting_sensor = s_counter[j][1]
+                
                 ##check if all 4 batches have been activated. If so then reset the starting sensor
-                if(starting_sensor+counter_temp > len(s_counter)-3):
-                    s_counter[j][1] = 0
+                if(starting_sensor > len(s_counter[j])-1 and counter_temp!=0):
+                    print("For", j, "'th relay. resetting cycle")
+                    s_counter[j][1] = s_counter[j][2]
                     starting_sensor = s_counter[j][1]
                 ##iterating over the list to turn off all sensors and turn on the 1/4th batch 
                 counting = 0  
                 starting_detected = False
-                for k in range(len(s_counter[0])):
+                for k in range(counter_temp+2):
                     ##skip the first two indexes as they contain the count and the starting point of the sensor batch
                     if(k >1):
                         
                         #check if the index is the starting point
-                        if(s_counter[j][k]==starting_sensor):
+                        if(s_counter[j][k]==s_counter[j][starting_sensor]):
                             starting_detected = True
                         #check if the starting sensor is detected and 1/4th of the sensors are not activated. turn on the sensor 
-                        if(starting_detected and counting<=counter_temp):
+                        if(starting_detected and counting<counter_temp):
                             state_s[s_counter[j][k]][j] = 1
                             counting+=1
                         #else turn off the sensor
                         else:
                             state_s[s_counter[j][k]][j] = 0
+                ##priniting sensors conncted to a relay
+                if(counter_temp!=0):
+                    
+                    print("Relay: ", j , " has ", counting, " active sensors out of ", counter_temp, " sensors")
         else:
+            
             #turn on all sensors in the oil detected relays:
             print("Oil leak detected. Turning on all sensors in all affected clusters")
             for i in oil_affected_relays: 
@@ -612,7 +646,7 @@ def Optimize(rad, sen):
                         # print("connection relay found")
                         if (nw_e_r[k][i] - e_r[k][i][0] <= 0):
                             Fin_Conn_R_R[k][i]=0
-                            for m in range(len(Fin_Conn_S_R)):##turn off all sensors connected to the relays
+                            for m in range(len(Fin_Conn_S_R)): ##turn off all sensors connected to the relays
                                 if(Fin_Conn_S_R[m][i]!=0):
                                     Fin_Conn_S_R[m][i] = 0
                                     dead_s+=1
@@ -645,7 +679,7 @@ def Optimize(rad, sen):
 
                 ##This loop aggregates data
                 for m in range(len(Fin_Conn_R_R)):
-                    if(Fin_Conn_S_R[m][i]==1):
+                    if(Fin_Conn_R_R[m][i]==1):
                         nw_e_r[m][i]-=e_r[m][i][2]
 
 
@@ -664,6 +698,12 @@ def Optimize(rad, sen):
             # print("Dead relays pc: ", dead_r_pc, " %")
             strings = "Dead relays pc: "+ str(dead_r_pc)+ " % \n"
             file.write(strings)
+
+            # ##at round 100 spill oil:
+            # if(round==100):
+            #     oil_simulator(Fin_Conn_S_R, sensorList, PH_list_sensors)
+
+            #     print("Spilling oil")
             if( dead_s_pc > 90 or dead_r_pc >90):
                 break 
             # print("Energy matrix Relay:")
@@ -691,6 +731,7 @@ def Optimize(rad, sen):
         print(i) 
     file.write("Total energy used: "+ str(gamma) +"\n")
     file.close()
+    print(s_counter)
 
 
 
@@ -698,7 +739,7 @@ def Optimize(rad, sen):
 
 
 
-k =300
+k =20
 radius = 30
 relay, energy = Optimize(radius, k)
 print('Radius =', radius,  ', Sensors = ', k)
