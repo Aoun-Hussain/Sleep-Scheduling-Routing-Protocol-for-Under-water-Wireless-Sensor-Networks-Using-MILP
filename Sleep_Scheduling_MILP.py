@@ -490,11 +490,19 @@ def Optimize(rad, sen):
         return Clusters_with_oil_spills
 
     def PH_checker(PH_list_sensors, Fin_Conn_S_R, state_s, cluster_head):
+        aggregated_PH = 0
+        no_of_sensors = 0
         for i in range(len(PH_list_sensors)):
-            if(Fin_Conn_S_R[i][cluster_head]==1 and state_s[i][cluster_head]==1 and (PH_list_sensors[i]>6.5)): ##check if sensor and relay are connected and switched on and pH level is exceded
-                return True ##if spill detected
+            if(Fin_Conn_S_R[i][cluster_head]==1 and state_s[i][cluster_head]==1): ##check if sensor and relay are connected and switched on and pH level is exceded
+                aggregated_PH+=PH_list_sensors[i] ##if spill detected
+        if(no_of_sensors!=0):
+            aggregated_PH = aggregated_PH/no_of_sensors
+            if(aggregated_PH>8.5):
+                return True
             else:
-                return False ## if spill not detected
+                return False
+        else:
+            return False
 
     def add_neighbour(Cluster_head, Fin_Conn_R_R, checked): ##cluster_head contains the index of that relay which cluster detects oil leaks
         ##checks and returns neigbouring clusters to a cluster
@@ -576,16 +584,16 @@ def Optimize(rad, sen):
                     if(Fin_Conn_R_R[j][i]==1): #check if the sensor is connected to the relay
                         ##turn it on:
                         state_s[j][i] = 1 
-            print("check neighboring cluster heads PH")
-            #alert its neighbors and add their neighbors to the oil_affected_relays list: 
-            oil_affected_temp = oil_affected_relays[:]
-            while(oil_affected_temp!=[]):
-                print("in loop")
-                check_cluster = oil_affected_temp.pop(0) ##cluster to be checked for spill
-                if(PH_checker(PH_list_sensors, Fin_Conn_S_R, state_s, check_cluster)): ##if true then check neighbors aswell 
-                    new_clusters = add_neighbour(check_cluster, Fin_Conn_R_R, oil_affected_relays)
-                    oil_affected_relays.append(new_clusters) ##add to the master relay list
-                    oil_affected_relays.append(new_clusters) ##add to the temp relay list for stack implimentation
+            # print("check neighboring cluster heads PH")
+            # #alert its neighbors and add their neighbors to the oil_affected_relays list: 
+            # oil_affected_temp = oil_affected_relays[:]
+            # while(oil_affected_temp!=[]):
+            #     print("in loop")
+            #     check_cluster = oil_affected_temp.pop(0) ##cluster to be checked for spill
+            #     if(PH_checker(PH_list_sensors, Fin_Conn_S_R, state_s, check_cluster)): ##if true then check neighbors aswell 
+            #         new_clusters = add_neighbour(check_cluster, Fin_Conn_R_R, oil_affected_relays)
+            #         oil_affected_relays.append(new_clusters) ##add to the master relay list
+            #         oil_affected_relays.append(new_clusters) ##add to the temp relay list for stack implimentation
                     
 
 
@@ -739,7 +747,7 @@ def Optimize(rad, sen):
 
 
 
-k =20
+k =16
 radius = 30
 relay, energy = Optimize(radius, k)
 print('Radius =', radius,  ', Sensors = ', k)

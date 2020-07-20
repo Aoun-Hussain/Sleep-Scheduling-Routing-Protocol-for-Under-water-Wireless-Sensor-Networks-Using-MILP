@@ -51126,3 +51126,2678 @@ sensor residual matrix[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 
 [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4.053697719944947e-07, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2.157692924260646e-05, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Total energy used: 0.0007700777629419762
+sensors: 16
+Relays: 4
+{'Relay27': ['Sensor0', 'Sensor1', 'Sensor8'], 'Relay38': ['Sensor2', 'Sensor3', 'Sensor4', 'Sensor9', 'Sensor11'], 'Relay94': ['Sensor5', 'Sensor6', 'Sensor7', 'Sensor10', 'Sensor15'], 'Relay91': ['Sensor12', 'Sensor13', 'Sensor14']}
+ROUND: 0
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 1
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 2
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 3
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 4
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 5
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 6
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 7
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 8
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 9
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 10
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 11
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 12
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 13
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 14
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 15
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 16
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 17
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 18
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 19
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 20
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 21
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 22
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 23
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 24
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 25
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 26
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 27
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 28
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 29
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 30
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 31
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 32
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 33
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 34
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 35
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 36
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 37
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 38
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 39
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 40
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 41
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 42
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 43
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 44
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 45
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 46
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 47
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 48
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 49
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 50
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 51
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 52
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 53
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 54
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 55
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 56
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 57
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 58
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 59
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 60
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 61
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 62
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 63
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 64
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 65
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 66
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 67
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 68
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 69
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 70
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 71
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 72
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 73
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 74
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 75
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 76
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 77
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 78
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 79
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 80
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 81
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 82
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 83
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 84
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 85
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 86
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 87
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 88
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 89
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 90
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 91
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 92
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 93
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 94
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 95
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 96
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 97
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 98
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 99
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 100
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 101
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 102
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 103
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 104
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 105
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 106
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 107
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 108
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 109
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 110
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 111
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 112
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 113
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 114
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 115
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 116
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 117
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 118
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 119
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 120
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 121
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 122
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 123
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 124
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 125
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 126
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 127
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 128
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 129
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 130
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 131
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 132
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 133
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 134
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 135
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 136
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 137
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 138
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 139
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 140
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 141
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 142
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 143
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 144
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 145
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 146
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 147
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 148
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 149
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 150
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 151
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 152
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 153
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 154
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 155
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 156
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 157
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 158
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 159
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 160
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 161
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 162
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 163
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 164
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 165
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 166
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 167
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 168
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 169
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 170
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 171
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 172
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 173
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 174
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 175
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 176
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 177
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 178
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 179
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 180
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 181
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 182
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 183
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 184
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 185
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 186
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 187
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 188
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 189
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 190
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 191
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 192
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 193
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 194
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 195
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 196
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 197
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 198
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 199
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 200
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 201
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 202
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 203
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 204
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 205
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 206
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 207
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 208
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 209
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 210
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 211
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 212
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 213
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 214
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 215
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 216
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 217
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 218
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 219
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 220
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 221
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 222
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 223
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 224
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 225
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 226
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 227
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 228
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 229
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 230
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 231
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 232
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 233
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 234
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 235
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 236
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 237
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 238
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 239
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 240
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 241
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 242
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 243
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 244
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 245
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 246
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 247
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 248
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 249
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 250
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 251
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 252
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 253
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 254
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 255
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 256
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 257
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 258
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 259
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 260
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 261
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 262
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 263
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 264
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 265
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 266
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 267
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 268
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 269
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 270
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 271
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 272
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 273
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 274
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 275
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 276
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 277
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 278
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 279
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 280
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 281
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 282
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 283
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 284
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 285
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 286
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 287
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 288
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 289
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 290
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 291
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 292
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 293
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 294
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 295
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 296
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 297
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 298
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 299
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 300
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 301
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 302
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 303
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 304
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 305
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 306
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 307
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 308
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 309
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 310
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 311
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 312
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 313
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 314
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 315
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 316
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 317
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 318
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 319
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 320
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 321
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 322
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 323
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 324
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 325
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 326
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 327
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 328
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 329
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 330
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 331
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 332
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 333
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 334
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 335
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 336
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 337
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 338
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 339
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 340
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 341
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 342
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 343
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 344
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 345
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 346
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 347
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 348
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 349
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 350
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 351
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 352
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 353
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 354
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 355
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 356
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 357
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 358
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 359
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 360
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 361
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 362
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 363
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 364
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 365
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 366
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 367
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 368
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 369
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 370
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 371
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 372
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 373
+dead relays: 0
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 374
+dead relays: 0
+Dead Network pc: 3.125 % 
+Dead Sensor pc: 6.25 % 
+Dead relays pc: 0.0 % 
+ROUND: 375
+dead relays: 0
+Dead Network pc: 3.125 % 
+Dead Sensor pc: 6.25 % 
+Dead relays pc: 0.0 % 
+ROUND: 376
+dead relays: 0
+Dead Network pc: 3.125 % 
+Dead Sensor pc: 6.25 % 
+Dead relays pc: 0.0 % 
+ROUND: 377
+dead relays: 0
+Dead Network pc: 3.125 % 
+Dead Sensor pc: 6.25 % 
+Dead relays pc: 0.0 % 
+ROUND: 378
+dead relays: 0
+Dead Network pc: 3.125 % 
+Dead Sensor pc: 6.25 % 
+Dead relays pc: 0.0 % 
+ROUND: 379
+dead relays: 0
+Dead Network pc: 3.125 % 
+Dead Sensor pc: 6.25 % 
+Dead relays pc: 0.0 % 
+ROUND: 380
+dead relays: 0
+Dead Network pc: 3.125 % 
+Dead Sensor pc: 6.25 % 
+Dead relays pc: 0.0 % 
+ROUND: 381
+dead relays: 0
+Dead Network pc: 3.125 % 
+Dead Sensor pc: 6.25 % 
+Dead relays pc: 0.0 % 
+ROUND: 382
+dead relays: 0
+Dead Network pc: 3.125 % 
+Dead Sensor pc: 6.25 % 
+Dead relays pc: 0.0 % 
+ROUND: 383
+dead relays: 0
+Dead Network pc: 3.125 % 
+Dead Sensor pc: 6.25 % 
+Dead relays pc: 0.0 % 
+ROUND: 384
+dead relays: 0
+Dead Network pc: 3.125 % 
+Dead Sensor pc: 6.25 % 
+Dead relays pc: 0.0 % 
+ROUND: 385
+dead relays: 0
+Dead Network pc: 3.125 % 
+Dead Sensor pc: 6.25 % 
+Dead relays pc: 0.0 % 
+ROUND: 386
+dead relays: 0
+Dead Network pc: 3.125 % 
+Dead Sensor pc: 6.25 % 
+Dead relays pc: 0.0 % 
+ROUND: 387
+dead relays: 0
+Dead Network pc: 3.125 % 
+Dead Sensor pc: 6.25 % 
+Dead relays pc: 0.0 % 
+ROUND: 388
+dead relays: 0
+Dead Network pc: 6.25 % 
+Dead Sensor pc: 12.5 % 
+Dead relays pc: 0.0 % 
+ROUND: 389
+dead relays: 0
+Dead Network pc: 6.25 % 
+Dead Sensor pc: 12.5 % 
+Dead relays pc: 0.0 % 
+ROUND: 390
+dead relays: 0
+Dead Network pc: 6.25 % 
+Dead Sensor pc: 12.5 % 
+Dead relays pc: 0.0 % 
+ROUND: 391
+dead relays: 0
+Dead Network pc: 6.25 % 
+Dead Sensor pc: 12.5 % 
+Dead relays pc: 0.0 % 
+ROUND: 392
+dead relays: 0
+Dead Network pc: 6.25 % 
+Dead Sensor pc: 12.5 % 
+Dead relays pc: 0.0 % 
+ROUND: 393
+dead relays: 0
+Dead Network pc: 6.25 % 
+Dead Sensor pc: 12.5 % 
+Dead relays pc: 0.0 % 
+ROUND: 394
+dead relays: 0
+Dead Network pc: 6.25 % 
+Dead Sensor pc: 12.5 % 
+Dead relays pc: 0.0 % 
+ROUND: 395
+dead relays: 0
+Dead Network pc: 6.25 % 
+Dead Sensor pc: 12.5 % 
+Dead relays pc: 0.0 % 
+ROUND: 396
+dead relays: 0
+Dead Network pc: 6.25 % 
+Dead Sensor pc: 12.5 % 
+Dead relays pc: 0.0 % 
+ROUND: 397
+dead relays: 0
+Dead Network pc: 6.25 % 
+Dead Sensor pc: 12.5 % 
+Dead relays pc: 0.0 % 
+ROUND: 398
+dead relays: 0
+Dead Network pc: 6.25 % 
+Dead Sensor pc: 12.5 % 
+Dead relays pc: 0.0 % 
+ROUND: 399
+dead relays: 0
+Dead Network pc: 6.25 % 
+Dead Sensor pc: 12.5 % 
+Dead relays pc: 0.0 % 
+ROUND: 400
+dead relays: 0
+Dead Network pc: 6.25 % 
+Dead Sensor pc: 12.5 % 
+Dead relays pc: 0.0 % 
+ROUND: 401
+dead relays: 0
+Dead Network pc: 6.25 % 
+Dead Sensor pc: 12.5 % 
+Dead relays pc: 0.0 % 
+ROUND: 402
+dead relays: 0
+Dead Network pc: 6.25 % 
+Dead Sensor pc: 12.5 % 
+Dead relays pc: 0.0 % 
+ROUND: 403
+dead relays: 0
+Dead Network pc: 6.25 % 
+Dead Sensor pc: 12.5 % 
+Dead relays pc: 0.0 % 
+ROUND: 404
+dead relays: 0
+Dead Network pc: 6.25 % 
+Dead Sensor pc: 12.5 % 
+Dead relays pc: 0.0 % 
+ROUND: 405
+dead relays: 0
+Dead Network pc: 6.25 % 
+Dead Sensor pc: 12.5 % 
+Dead relays pc: 0.0 % 
+ROUND: 406
+dead relays: 0
+Dead Network pc: 6.25 % 
+Dead Sensor pc: 12.5 % 
+Dead relays pc: 0.0 % 
+ROUND: 407
+dead relays: 0
+Dead Network pc: 6.25 % 
+Dead Sensor pc: 12.5 % 
+Dead relays pc: 0.0 % 
+ROUND: 408
+dead relays: 0
+Dead Network pc: 6.25 % 
+Dead Sensor pc: 12.5 % 
+Dead relays pc: 0.0 % 
+ROUND: 409
+dead relays: 0
+Dead Network pc: 6.25 % 
+Dead Sensor pc: 12.5 % 
+Dead relays pc: 0.0 % 
+ROUND: 410
+dead relays: 0
+Dead Network pc: 6.25 % 
+Dead Sensor pc: 12.5 % 
+Dead relays pc: 0.0 % 
+ROUND: 411
+dead relays: 0
+Dead Network pc: 6.25 % 
+Dead Sensor pc: 12.5 % 
+Dead relays pc: 0.0 % 
+ROUND: 412
+dead relays: 0
+Dead Network pc: 6.25 % 
+Dead Sensor pc: 12.5 % 
+Dead relays pc: 0.0 % 
+ROUND: 413
+dead relays: 0
+Dead Network pc: 9.375 % 
+Dead Sensor pc: 18.75 % 
+Dead relays pc: 0.0 % 
+ROUND: 414
+dead relays: 0
+Dead Network pc: 9.375 % 
+Dead Sensor pc: 18.75 % 
+Dead relays pc: 0.0 % 
+ROUND: 415
+dead relays: 0
+Dead Network pc: 9.375 % 
+Dead Sensor pc: 18.75 % 
+Dead relays pc: 0.0 % 
+ROUND: 416
+dead relays: 0
+Dead Network pc: 9.375 % 
+Dead Sensor pc: 18.75 % 
+Dead relays pc: 0.0 % 
+ROUND: 417
+dead relays: 0
+Dead Network pc: 9.375 % 
+Dead Sensor pc: 18.75 % 
+Dead relays pc: 0.0 % 
+ROUND: 418
+dead relays: 0
+Dead Network pc: 9.375 % 
+Dead Sensor pc: 18.75 % 
+Dead relays pc: 0.0 % 
+ROUND: 419
+dead relays: 0
+Dead Network pc: 12.5 % 
+Dead Sensor pc: 25.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 420
+dead relays: 0
+Dead Network pc: 12.5 % 
+Dead Sensor pc: 25.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 421
+dead relays: 0
+Dead Network pc: 12.5 % 
+Dead Sensor pc: 25.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 422
+dead relays: 0
+Dead Network pc: 12.5 % 
+Dead Sensor pc: 25.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 423
+dead relays: 0
+Dead Network pc: 12.5 % 
+Dead Sensor pc: 25.0 % 
+Dead relays pc: 0.0 % 
+ROUND: 424
+dead relays: 1
+Dead Network pc: 37.5 % 
+Dead Sensor pc: 50.0 % 
+Dead relays pc: 25.0 % 
+ROUND: 425
+dead relays: 1
+Dead Network pc: 37.5 % 
+Dead Sensor pc: 50.0 % 
+Dead relays pc: 25.0 % 
+ROUND: 426
+dead relays: 1
+Dead Network pc: 37.5 % 
+Dead Sensor pc: 50.0 % 
+Dead relays pc: 25.0 % 
+ROUND: 427
+dead relays: 1
+Dead Network pc: 37.5 % 
+Dead Sensor pc: 50.0 % 
+Dead relays pc: 25.0 % 
+ROUND: 428
+dead relays: 1
+Dead Network pc: 37.5 % 
+Dead Sensor pc: 50.0 % 
+Dead relays pc: 25.0 % 
+ROUND: 429
+dead relays: 1
+Dead Network pc: 37.5 % 
+Dead Sensor pc: 50.0 % 
+Dead relays pc: 25.0 % 
+ROUND: 430
+dead relays: 1
+Dead Network pc: 37.5 % 
+Dead Sensor pc: 50.0 % 
+Dead relays pc: 25.0 % 
+ROUND: 431
+dead relays: 1
+Dead Network pc: 37.5 % 
+Dead Sensor pc: 50.0 % 
+Dead relays pc: 25.0 % 
+ROUND: 432
+dead relays: 1
+Dead Network pc: 37.5 % 
+Dead Sensor pc: 50.0 % 
+Dead relays pc: 25.0 % 
+ROUND: 433
+dead relays: 1
+Dead Network pc: 37.5 % 
+Dead Sensor pc: 50.0 % 
+Dead relays pc: 25.0 % 
+ROUND: 434
+dead relays: 1
+Dead Network pc: 37.5 % 
+Dead Sensor pc: 50.0 % 
+Dead relays pc: 25.0 % 
+ROUND: 435
+dead relays: 1
+Dead Network pc: 37.5 % 
+Dead Sensor pc: 50.0 % 
+Dead relays pc: 25.0 % 
+ROUND: 436
+dead relays: 1
+Dead Network pc: 37.5 % 
+Dead Sensor pc: 50.0 % 
+Dead relays pc: 25.0 % 
+ROUND: 437
+dead relays: 1
+Dead Network pc: 37.5 % 
+Dead Sensor pc: 50.0 % 
+Dead relays pc: 25.0 % 
+ROUND: 438
+dead relays: 1
+Dead Network pc: 37.5 % 
+Dead Sensor pc: 50.0 % 
+Dead relays pc: 25.0 % 
+ROUND: 439
+dead relays: 1
+Dead Network pc: 37.5 % 
+Dead Sensor pc: 50.0 % 
+Dead relays pc: 25.0 % 
+ROUND: 440
+dead relays: 1
+Dead Network pc: 37.5 % 
+Dead Sensor pc: 50.0 % 
+Dead relays pc: 25.0 % 
+ROUND: 441
+dead relays: 1
+Dead Network pc: 37.5 % 
+Dead Sensor pc: 50.0 % 
+Dead relays pc: 25.0 % 
+ROUND: 442
+dead relays: 1
+Dead Network pc: 37.5 % 
+Dead Sensor pc: 50.0 % 
+Dead relays pc: 25.0 % 
+ROUND: 443
+dead relays: 1
+Dead Network pc: 40.625 % 
+Dead Sensor pc: 56.25 % 
+Dead relays pc: 25.0 % 
+ROUND: 444
+dead relays: 1
+Dead Network pc: 40.625 % 
+Dead Sensor pc: 56.25 % 
+Dead relays pc: 25.0 % 
+ROUND: 445
+dead relays: 1
+Dead Network pc: 40.625 % 
+Dead Sensor pc: 56.25 % 
+Dead relays pc: 25.0 % 
+ROUND: 446
+dead relays: 1
+Dead Network pc: 40.625 % 
+Dead Sensor pc: 56.25 % 
+Dead relays pc: 25.0 % 
+ROUND: 447
+dead relays: 1
+Dead Network pc: 40.625 % 
+Dead Sensor pc: 56.25 % 
+Dead relays pc: 25.0 % 
+ROUND: 448
+dead relays: 1
+Dead Network pc: 40.625 % 
+Dead Sensor pc: 56.25 % 
+Dead relays pc: 25.0 % 
+ROUND: 449
+dead relays: 1
+Dead Network pc: 40.625 % 
+Dead Sensor pc: 56.25 % 
+Dead relays pc: 25.0 % 
+ROUND: 450
+dead relays: 1
+Dead Network pc: 40.625 % 
+Dead Sensor pc: 56.25 % 
+Dead relays pc: 25.0 % 
+ROUND: 451
+dead relays: 1
+Dead Network pc: 40.625 % 
+Dead Sensor pc: 56.25 % 
+Dead relays pc: 25.0 % 
+ROUND: 452
+dead relays: 1
+Dead Network pc: 40.625 % 
+Dead Sensor pc: 56.25 % 
+Dead relays pc: 25.0 % 
+ROUND: 453
+dead relays: 1
+Dead Network pc: 40.625 % 
+Dead Sensor pc: 56.25 % 
+Dead relays pc: 25.0 % 
+ROUND: 454
+dead relays: 1
+Dead Network pc: 40.625 % 
+Dead Sensor pc: 56.25 % 
+Dead relays pc: 25.0 % 
+ROUND: 455
+dead relays: 1
+Dead Network pc: 40.625 % 
+Dead Sensor pc: 56.25 % 
+Dead relays pc: 25.0 % 
+ROUND: 456
+dead relays: 1
+Dead Network pc: 40.625 % 
+Dead Sensor pc: 56.25 % 
+Dead relays pc: 25.0 % 
+ROUND: 457
+dead relays: 1
+Dead Network pc: 40.625 % 
+Dead Sensor pc: 56.25 % 
+Dead relays pc: 25.0 % 
+ROUND: 458
+dead relays: 1
+Dead Network pc: 40.625 % 
+Dead Sensor pc: 56.25 % 
+Dead relays pc: 25.0 % 
+ROUND: 459
+dead relays: 1
+Dead Network pc: 40.625 % 
+Dead Sensor pc: 56.25 % 
+Dead relays pc: 25.0 % 
+ROUND: 460
+dead relays: 1
+Dead Network pc: 40.625 % 
+Dead Sensor pc: 56.25 % 
+Dead relays pc: 25.0 % 
+ROUND: 461
+dead relays: 1
+Dead Network pc: 40.625 % 
+Dead Sensor pc: 56.25 % 
+Dead relays pc: 25.0 % 
+ROUND: 462
+dead relays: 1
+Dead Network pc: 40.625 % 
+Dead Sensor pc: 56.25 % 
+Dead relays pc: 25.0 % 
+ROUND: 463
+dead relays: 1
+Dead Network pc: 40.625 % 
+Dead Sensor pc: 56.25 % 
+Dead relays pc: 25.0 % 
+ROUND: 464
+dead relays: 1
+Dead Network pc: 40.625 % 
+Dead Sensor pc: 56.25 % 
+Dead relays pc: 25.0 % 
+ROUND: 465
+dead relays: 1
+Dead Network pc: 40.625 % 
+Dead Sensor pc: 56.25 % 
+Dead relays pc: 25.0 % 
+ROUND: 466
+dead relays: 1
+Dead Network pc: 40.625 % 
+Dead Sensor pc: 56.25 % 
+Dead relays pc: 25.0 % 
+ROUND: 467
+dead relays: 1
+Dead Network pc: 40.625 % 
+Dead Sensor pc: 56.25 % 
+Dead relays pc: 25.0 % 
+ROUND: 468
+dead relays: 1
+Dead Network pc: 40.625 % 
+Dead Sensor pc: 56.25 % 
+Dead relays pc: 25.0 % 
+ROUND: 469
+dead relays: 1
+Dead Network pc: 40.625 % 
+Dead Sensor pc: 56.25 % 
+Dead relays pc: 25.0 % 
+ROUND: 470
+dead relays: 1
+Dead Network pc: 40.625 % 
+Dead Sensor pc: 56.25 % 
+Dead relays pc: 25.0 % 
+ROUND: 471
+dead relays: 1
+Dead Network pc: 40.625 % 
+Dead Sensor pc: 56.25 % 
+Dead relays pc: 25.0 % 
+ROUND: 472
+dead relays: 1
+Dead Network pc: 40.625 % 
+Dead Sensor pc: 56.25 % 
+Dead relays pc: 25.0 % 
+ROUND: 473
+dead relays: 1
+Dead Network pc: 40.625 % 
+Dead Sensor pc: 56.25 % 
+Dead relays pc: 25.0 % 
+ROUND: 474
+dead relays: 1
+Dead Network pc: 40.625 % 
+Dead Sensor pc: 56.25 % 
+Dead relays pc: 25.0 % 
+ROUND: 475
+dead relays: 1
+Dead Network pc: 40.625 % 
+Dead Sensor pc: 56.25 % 
+Dead relays pc: 25.0 % 
+ROUND: 476
+dead relays: 1
+Dead Network pc: 40.625 % 
+Dead Sensor pc: 56.25 % 
+Dead relays pc: 25.0 % 
+ROUND: 477
+dead relays: 1
+Dead Network pc: 40.625 % 
+Dead Sensor pc: 56.25 % 
+Dead relays pc: 25.0 % 
+ROUND: 478
+dead relays: 1
+Dead Network pc: 40.625 % 
+Dead Sensor pc: 56.25 % 
+Dead relays pc: 25.0 % 
+ROUND: 479
+dead relays: 1
+Dead Network pc: 46.875 % 
+Dead Sensor pc: 68.75 % 
+Dead relays pc: 25.0 % 
+ROUND: 480
+dead relays: 1
+Dead Network pc: 46.875 % 
+Dead Sensor pc: 68.75 % 
+Dead relays pc: 25.0 % 
+ROUND: 481
+dead relays: 1
+Dead Network pc: 46.875 % 
+Dead Sensor pc: 68.75 % 
+Dead relays pc: 25.0 % 
+ROUND: 482
+dead relays: 1
+Dead Network pc: 46.875 % 
+Dead Sensor pc: 68.75 % 
+Dead relays pc: 25.0 % 
+ROUND: 483
+dead relays: 1
+Dead Network pc: 46.875 % 
+Dead Sensor pc: 68.75 % 
+Dead relays pc: 25.0 % 
+ROUND: 484
+dead relays: 1
+Dead Network pc: 46.875 % 
+Dead Sensor pc: 68.75 % 
+Dead relays pc: 25.0 % 
+ROUND: 485
+dead relays: 1
+Dead Network pc: 46.875 % 
+Dead Sensor pc: 68.75 % 
+Dead relays pc: 25.0 % 
+ROUND: 486
+dead relays: 1
+Dead Network pc: 46.875 % 
+Dead Sensor pc: 68.75 % 
+Dead relays pc: 25.0 % 
+ROUND: 487
+dead relays: 1
+Dead Network pc: 46.875 % 
+Dead Sensor pc: 68.75 % 
+Dead relays pc: 25.0 % 
+ROUND: 488
+dead relays: 1
+Dead Network pc: 46.875 % 
+Dead Sensor pc: 68.75 % 
+Dead relays pc: 25.0 % 
+ROUND: 489
+dead relays: 1
+Dead Network pc: 46.875 % 
+Dead Sensor pc: 68.75 % 
+Dead relays pc: 25.0 % 
+ROUND: 490
+dead relays: 1
+Dead Network pc: 46.875 % 
+Dead Sensor pc: 68.75 % 
+Dead relays pc: 25.0 % 
+ROUND: 491
+dead relays: 1
+Dead Network pc: 50.0 % 
+Dead Sensor pc: 75.0 % 
+Dead relays pc: 25.0 % 
+ROUND: 492
+dead relays: 1
+Dead Network pc: 50.0 % 
+Dead Sensor pc: 75.0 % 
+Dead relays pc: 25.0 % 
+ROUND: 493
+dead relays: 1
+Dead Network pc: 50.0 % 
+Dead Sensor pc: 75.0 % 
+Dead relays pc: 25.0 % 
+ROUND: 494
+dead relays: 1
+Dead Network pc: 50.0 % 
+Dead Sensor pc: 75.0 % 
+Dead relays pc: 25.0 % 
+ROUND: 495
+dead relays: 1
+Dead Network pc: 50.0 % 
+Dead Sensor pc: 75.0 % 
+Dead relays pc: 25.0 % 
+ROUND: 496
+dead relays: 1
+Dead Network pc: 50.0 % 
+Dead Sensor pc: 75.0 % 
+Dead relays pc: 25.0 % 
+ROUND: 497
+dead relays: 1
+Dead Network pc: 50.0 % 
+Dead Sensor pc: 75.0 % 
+Dead relays pc: 25.0 % 
+ROUND: 498
+dead relays: 1
+Dead Network pc: 50.0 % 
+Dead Sensor pc: 75.0 % 
+Dead relays pc: 25.0 % 
+ROUND: 499
+dead relays: 1
+Dead Network pc: 50.0 % 
+Dead Sensor pc: 75.0 % 
+Dead relays pc: 25.0 % 
+ROUND: 500
+dead relays: 1
+Dead Network pc: 50.0 % 
+Dead Sensor pc: 75.0 % 
+Dead relays pc: 25.0 % 
+ROUND: 501
+dead relays: 1
+Dead Network pc: 50.0 % 
+Dead Sensor pc: 75.0 % 
+Dead relays pc: 25.0 % 
+ROUND: 502
+dead relays: 1
+Dead Network pc: 50.0 % 
+Dead Sensor pc: 75.0 % 
+Dead relays pc: 25.0 % 
+ROUND: 503
+dead relays: 1
+Dead Network pc: 50.0 % 
+Dead Sensor pc: 75.0 % 
+Dead relays pc: 25.0 % 
+ROUND: 504
+dead relays: 1
+Dead Network pc: 50.0 % 
+Dead Sensor pc: 75.0 % 
+Dead relays pc: 25.0 % 
+ROUND: 505
+dead relays: 1
+Dead Network pc: 50.0 % 
+Dead Sensor pc: 75.0 % 
+Dead relays pc: 25.0 % 
+ROUND: 506
+dead relays: 1
+Dead Network pc: 50.0 % 
+Dead Sensor pc: 75.0 % 
+Dead relays pc: 25.0 % 
+ROUND: 507
+dead relays: 1
+Dead Network pc: 50.0 % 
+Dead Sensor pc: 75.0 % 
+Dead relays pc: 25.0 % 
+ROUND: 508
+dead relays: 1
+Dead Network pc: 53.125 % 
+Dead Sensor pc: 81.25 % 
+Dead relays pc: 25.0 % 
+ROUND: 509
+dead relays: 1
+Dead Network pc: 53.125 % 
+Dead Sensor pc: 81.25 % 
+Dead relays pc: 25.0 % 
+ROUND: 510
+dead relays: 1
+Dead Network pc: 53.125 % 
+Dead Sensor pc: 81.25 % 
+Dead relays pc: 25.0 % 
+ROUND: 511
+dead relays: 1
+Dead Network pc: 53.125 % 
+Dead Sensor pc: 81.25 % 
+Dead relays pc: 25.0 % 
+ROUND: 512
+dead relays: 1
+Dead Network pc: 53.125 % 
+Dead Sensor pc: 81.25 % 
+Dead relays pc: 25.0 % 
+ROUND: 513
+dead relays: 1
+Dead Network pc: 53.125 % 
+Dead Sensor pc: 81.25 % 
+Dead relays pc: 25.0 % 
+ROUND: 514
+dead relays: 1
+Dead Network pc: 53.125 % 
+Dead Sensor pc: 81.25 % 
+Dead relays pc: 25.0 % 
+ROUND: 515
+dead relays: 1
+Dead Network pc: 53.125 % 
+Dead Sensor pc: 81.25 % 
+Dead relays pc: 25.0 % 
+ROUND: 516
+dead relays: 1
+Dead Network pc: 53.125 % 
+Dead Sensor pc: 81.25 % 
+Dead relays pc: 25.0 % 
+ROUND: 517
+dead relays: 1
+Dead Network pc: 53.125 % 
+Dead Sensor pc: 81.25 % 
+Dead relays pc: 25.0 % 
+ROUND: 518
+dead relays: 1
+Dead Network pc: 53.125 % 
+Dead Sensor pc: 81.25 % 
+Dead relays pc: 25.0 % 
+ROUND: 519
+dead relays: 1
+Dead Network pc: 53.125 % 
+Dead Sensor pc: 81.25 % 
+Dead relays pc: 25.0 % 
+ROUND: 520
+dead relays: 1
+Dead Network pc: 53.125 % 
+Dead Sensor pc: 81.25 % 
+Dead relays pc: 25.0 % 
+ROUND: 521
+dead relays: 1
+Dead Network pc: 53.125 % 
+Dead Sensor pc: 81.25 % 
+Dead relays pc: 25.0 % 
+ROUND: 522
+dead relays: 1
+Dead Network pc: 53.125 % 
+Dead Sensor pc: 81.25 % 
+Dead relays pc: 25.0 % 
+ROUND: 523
+dead relays: 1
+Dead Network pc: 53.125 % 
+Dead Sensor pc: 81.25 % 
+Dead relays pc: 25.0 % 
+ROUND: 524
+dead relays: 2
+Dead Network pc: 68.75 % 
+Dead Sensor pc: 87.5 % 
+Dead relays pc: 50.0 % 
+ROUND: 525
+dead relays: 2
+Dead Network pc: 68.75 % 
+Dead Sensor pc: 87.5 % 
+Dead relays pc: 50.0 % 
+ROUND: 526
+dead relays: 2
+Dead Network pc: 68.75 % 
+Dead Sensor pc: 87.5 % 
+Dead relays pc: 50.0 % 
+ROUND: 527
+dead relays: 2
+Dead Network pc: 68.75 % 
+Dead Sensor pc: 87.5 % 
+Dead relays pc: 50.0 % 
+ROUND: 528
+dead relays: 2
+Dead Network pc: 68.75 % 
+Dead Sensor pc: 87.5 % 
+Dead relays pc: 50.0 % 
+ROUND: 529
+dead relays: 2
+Dead Network pc: 68.75 % 
+Dead Sensor pc: 87.5 % 
+Dead relays pc: 50.0 % 
+ROUND: 530
+dead relays: 3
+Dead Network pc: 84.375 % 
+Dead Sensor pc: 93.75 % 
+Dead relays pc: 75.0 % 
+sensor residual matrix[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2.813423227781331e-06, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3.359208579228416e-06, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3.143205936719065e-06, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4.9640263443608836e-06, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3.853979578736406e-06, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1.075793131135162e-05, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.0009296539664329106, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.00024543380371375677, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.002120632906549901, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.00236138773138989, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.0005360760530105618, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3.4582834526375754e-07, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9.456311468495986e-06, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.0013143150982961602, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5.086646550215923e-06, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.0011497484564867292, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Total energy used: 0.0005781015875949944
