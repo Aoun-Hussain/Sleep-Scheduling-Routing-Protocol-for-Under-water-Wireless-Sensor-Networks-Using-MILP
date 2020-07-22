@@ -10,7 +10,7 @@ import networkx as nx
 def Optimize(rad, sen):
     width = 100.0              ##100 by 100 meters of square field
     R = float(rad)             ##Radius of communication of each node
-    relayConstraint = 121    ##Total relays to be deployed
+    relayConstraint = 5  ##Total relays to be deployed
     sensorList = []
     relayList = []
     
@@ -355,6 +355,20 @@ def Optimize(rad, sen):
     for i in connection:   ##calculating maximum sensor per relay
         a = max(a,len(connection[i]))
 
+    ## creating a separate Relay-Relay matrix for additional relays deployed by Steiner node's algorithm
+    steiner_R_R = [[0 for j in range(len(Fin_Conn_R_R))] for i in range(len(Fin_Conn_R_R[0]))]
+    steiner_dict = nx.to_dict_of_dicts(x)
+    for relay_ in steiner_dict.keys():
+        neighbors_ = steiner_dict[relay_].keys()
+        print(relay_, steiner_dict[relay_].keys())
+        
+        ##traverse through all neighbors:
+        for i in neighbors_:
+            ##add these relay connections to steiner_R_R matrix if only its not present in Fin_Conn_R_R
+            if(Fin_Conn_R_R[relay_][i]==0 and steiner_R_R[i][relay_]!=1):
+                steiner_R_R[relay_][i]=1
+
+    
 ##    print("Maximum Sensors per Relay in the Network: ", a)            
 ##    print("Maximum Sensor per Relay constraint of the Network: " , S_Per_R)
 ##    print("Maximum Relay constraint of the Network: ", relayConstraint)
@@ -524,6 +538,13 @@ def Optimize(rad, sen):
                 PH_list_sensors[i] = oil_spill_PH
 
 
+    def reset_oil(sensorList, PH_list_sensors):
+        normal_PH = 7.5
+        for i in range(len(sensorList)):
+            PH_list_sensors[i] = normal_PH
+        
+
+        
 
 
 
@@ -606,6 +627,8 @@ def Optimize(rad, sen):
         file.write("Relays: " + str(len(connection)) +"\n")
         file.write(str(connection))
         file.write("\n")
+        total_energy = 0
+        
 
         round = 0
         dead_s = 0  
@@ -613,6 +636,7 @@ def Optimize(rad, sen):
         
         #running the simulation for n rounds
         while(True):
+            consumed_round_energy = 0
             #initializing dead sensors 
             print("ROUND: ", round)
             file.write("ROUND: " + str(round)+ "\n")
@@ -642,8 +666,18 @@ def Optimize(rad, sen):
                             # strings = "transmission energy: " + str(e_s[j][i]) +" residual energy of sensor: " +str(nw_e_s[j][i]-e_s[j][i]) +"\n"
                             # file.write(strings)
                             nw_e_s[j][i] -= e_s[j][i] 
+                            consumed_round_energy+=e_s[j][i] 
                             
-                            
+                ##relay connected to steiner relays:
+                for w in range(len(steiner_R_R)):
+                    if (steiner_R_R[i][w] ==1):
+                        if(nw_e_r[i][w]-e_r[i][w][0] >0):
+                            nw_e_r[i][w]-=e_r[i][w][0]
+                            consumed_round_energy+=e_r[i][w][0]
+                        else:
+                            dead_r+=1
+                            steiner_R_R[i][w]=0
+
                 # print("sending/receiving data on relays")
                 ##this loop iterates over all relays connected to i'th relay
                 for k in range(len(Fin_Conn_R_R)):
@@ -668,6 +702,7 @@ def Optimize(rad, sen):
                             # strings = "transmission energy: " +str(e_r[k][i])+ " residual energy of relay: "+ str(nw_e_s[k][i]-e_s[k][i]) +"\n"
                             # file.write(strings)
                             nw_e_r[k][i] -= e_r[k][i][0]
+                            consumed_round_energy+=e_r[k][i][0]
                             #check for connected sensors:
                             #this loop checks for connected sensors to a relay
                             for l in range(len(Fin_Conn_S_R)): #gives index of sensor
@@ -677,6 +712,7 @@ def Optimize(rad, sen):
                                         # strings = "receival energy: "+ str(e_r[k][i])+ " residual energy of relay: "+ str(nw_e_r[k][i]-e_r[k][i][1]) +"\n"
                                         # file.write(strings)
                                         nw_e_r[k][i]-=  e_r[k][i][1]            ##receive data from sensor
+                                        consumed_round_energy+=e_r[k][i][1]
                                     else:
                                         Fin_Conn_R_R[k][i]=0
                                         dead_r+=1
@@ -690,13 +726,14 @@ def Optimize(rad, sen):
                 for m in range(len(Fin_Conn_R_R)):
                     if(Fin_Conn_R_R[m][i]==1):
                         nw_e_r[m][i]-=e_r[m][i][2]
+                        consumed_round_energy+=e_r[m][i][2]
 
 
             dead_s_pc = (dead_s/sen)*100
             # print("dead relays: ", dead_r)
             strings = "dead relays: " + str(dead_r) +"\n"
             file.write(strings)
-            dead_r_pc = (dead_r/len(connection))*100
+            dead_r_pc = (dead_r/len(x.nodes))*100
             dead_nw_pc =( dead_s_pc + dead_r_pc)/2
             # print("Dead Network pc: ", dead_nw_pc, " %")
             strings = "Dead Network pc: " + str(dead_nw_pc) + " % \n"
@@ -708,11 +745,13 @@ def Optimize(rad, sen):
             strings = "Dead relays pc: "+ str(dead_r_pc)+ " % \n"
             file.write(strings)
 
-            # # ##at round 100 spill oil:
-            # if(round==100):
-            #     oil_simulator(Fin_Conn_S_R, sensorList, PH_list_sensors)
+            # ##at round 100 spill oil:
+            if(round==100):
+                oil_simulator(Fin_Conn_S_R, sensorList, PH_list_sensors)
 
-            #     print("Spilling oil")
+                print("Spilling oil")
+            if(round== 100+len(x.nodes) - 1):
+                reset_oil(sensorList, PH_list_sensors)
             if( dead_s_pc > 90 or dead_r_pc >90):
                 break 
             # print("Energy matrix Relay:")
@@ -724,10 +763,15 @@ def Optimize(rad, sen):
 
             ##toggles the state of the sensors (SRP implimented here)
             SRP_toggler(state_s, s_counter, PH_list_sensors, Fin_Conn_S_R, Fin_Conn_R_R, round)
+            #output energy used in the round:
+            total_energy+=consumed_round_energy
+            print("Energy used in round:", consumed_round_energy)
             ##update round
             round+=1
+            
 
-        print(round)
+        print("total rounds:", round)
+        print("total Energy used:", total_energy)
         file.close()
         return nw_e_s
 
@@ -748,7 +792,7 @@ def Optimize(rad, sen):
 
 
 
-k =20
+k =6
 radius = 30
 relay, energy = Optimize(radius, k)
 print('Radius =', radius,  ', Sensors = ', k)
