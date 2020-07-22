@@ -530,8 +530,8 @@ def Optimize(rad, sen):
 
     
 
-    def SRP_toggler(state_s,  s_counter, PH_list_sensors, Fin_Conn_S_R, Fin_Conn_R_R):
-
+    def SRP_toggler(state_s,  s_counter, PH_list_sensors, Fin_Conn_S_R, Fin_Conn_R_R, round):
+        
         
         ### The following code is divided into 2 blocks.
         #Block 1 is for Normal operation of SRP and Block 2 is behaviour after oil detection 
@@ -574,9 +574,9 @@ def Optimize(rad, sen):
                 ##priniting sensors conncted to a relay
                 if(counter_temp!=0):
                     
-                    print("Relay: ", j , " has ", counting, " active sensors out of ", counter_temp, " sensors")
+                    print("Relay: ", j , " has ", counting, " active sensors out of ", len(s_counter[j]) -2, " sensors")
         else:
-            
+            print("Oil Detected in Round: ", round+len(x.node)-1)
             #turn on all sensors in the oil detected relays:
             print("Oil leak detected. Turning on all sensors in all affected clusters")
             for i in oil_affected_relays: 
@@ -663,6 +663,7 @@ def Optimize(rad, sen):
                             # file.write(strings)
                             dead_r+=1
                         else:
+                            
                             # print("transmission energy: ", e_r[k][i], " residual energy of relay: ", nw_e_s[k][i]-e_s[k][i])
                             # strings = "transmission energy: " +str(e_r[k][i])+ " residual energy of relay: "+ str(nw_e_s[k][i]-e_s[k][i]) +"\n"
                             # file.write(strings)
@@ -707,7 +708,7 @@ def Optimize(rad, sen):
             strings = "Dead relays pc: "+ str(dead_r_pc)+ " % \n"
             file.write(strings)
 
-            # ##at round 100 spill oil:
+            # # ##at round 100 spill oil:
             # if(round==100):
             #     oil_simulator(Fin_Conn_S_R, sensorList, PH_list_sensors)
 
@@ -722,7 +723,7 @@ def Optimize(rad, sen):
             #     print(x)
 
             ##toggles the state of the sensors (SRP implimented here)
-            SRP_toggler(state_s, s_counter, PH_list_sensors, Fin_Conn_S_R, Fin_Conn_R_R)
+            SRP_toggler(state_s, s_counter, PH_list_sensors, Fin_Conn_S_R, Fin_Conn_R_R, round)
             ##update round
             round+=1
 
@@ -747,7 +748,7 @@ def Optimize(rad, sen):
 
 
 
-k =16
+k =20
 radius = 30
 relay, energy = Optimize(radius, k)
 print('Radius =', radius,  ', Sensors = ', k)
