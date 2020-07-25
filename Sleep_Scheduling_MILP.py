@@ -10,7 +10,7 @@ import networkx as nx
 def Optimize(rad, sen):
     width = 100.0              ##100 by 100 meters of square field
     R = float(rad)             ##Radius of communication of each node
-    relayConstraint = 5  ##Total relays to be deployed
+    relayConstraint = 121  ##Total relays to be deployed
     sensorList = []
     relayList = []
     
@@ -18,7 +18,7 @@ def Optimize(rad, sen):
     ##Populating sensorList and relayList
     for i in range(sen):
         sensorList.append((round(random.uniform(0.0,width),6),round(random.uniform(0.0,width),6)))
-        print(sensorList)
+        # print(sensorList)
 
     row = 0
     col = 0
@@ -376,7 +376,7 @@ def Optimize(rad, sen):
 ##    print("Total Number of relays deployed after steiner nodes: ", len(x.nodes))
     def Energy_s(SN,RN): 
         ### creates a matrix for sensor energy only
-        bandwidth = 100.0
+        bandwidth = 100.0 
         Energy_Sensor = [[[0] for i in range(len(RN))] for j in range(len(SN))]
         E_radio_S = 50.0 * (10 ** (-9))
         # E_radio_R = 100.0 * (10 ** (-9))
@@ -419,7 +419,7 @@ def Optimize(rad, sen):
         nw_e_r = [[0 for j in range(len(relayList))] for i in range(len(relayList))]
         for i in range(len(relayList)):
             for j in range(len(relayList)):
-                if(Fin_Conn_R_R[i][j]==1):
+                if(Fin_Conn_R_R[i][j]==1 or steiner_R_R[i][j]==1):
                     nw_e_r[i][j]=init_e_r                                                  
         
         return nw_e_r
@@ -464,16 +464,16 @@ def Optimize(rad, sen):
         
 
         
-        ##divide the counted values into 4 parts
-        for i in range(len(s_counter)):
-            if((s_counter[i][0]//4 )!=0): ##if s_counter divided by 4 gives 0, then take all sensonrs in one round only
-                s_counter[i][0] = s_counter[i][0]//4
+        # ##divide the counted values into 4 parts
+        # for i in range(len(s_counter)):
+        #     if((s_counter[i][0]//4 )!=0): ##if s_counter divided by 4 gives 0, then take all sensonrs in one round only
+        #         s_counter[i][0] = s_counter[i][0]//4
         return s_counter
     
     s_counter = init_s_counter(state_s, Fin_Conn_S_R)
-    print("s_counter: ")
-    for i in s_counter:
-        print(i)
+    # print("s_counter: ")
+    # for i in s_counter:
+    #     print(i)
 
     def init_sensor_PH_value(SN):
         ###initializes the PH values for all sensor nodes
@@ -533,7 +533,7 @@ def Optimize(rad, sen):
         yrange = 50 
         oil_spill_PH = 10 ## pH value of oil
         for i in range(len(sensorList)):
-            print(sensorList[i])
+            # print(sensorList[i])
             if (sensorList[i][0] <=xrange and sensorList[i][1] <=yrange):
                 PH_list_sensors[i] = oil_spill_PH
 
@@ -567,13 +567,15 @@ def Optimize(rad, sen):
             ##toggle 1/4 th sensors:
             #this loop iterates over a cluster of relay. j gives us the relay index
             for j in range(len(s_counter)):
-                counter_temp = s_counter[j][0]
-                starting_sensor = s_counter[j][1]
+                counter_temp = s_counter[j][0] ##number of sensors in the cluster
+                starting_sensor = s_counter[j][1] ## stores which sensor to start with (does not stores the actual sensors index)
                 
+                counter_1_4_th = s_counter[j][0]//4 ##divides the cluster into four parts
+
                 ##check if all 4 batches have been activated. If so then reset the starting sensor
-                if(starting_sensor > len(s_counter[j])-1 and counter_temp!=0):
+                if(starting_sensor >= len(s_counter[j])-1 and counter_temp!=0):
                     print("For", j, "'th relay. resetting cycle")
-                    s_counter[j][1] = s_counter[j][2]
+                    s_counter[j][1] = 2  ##reset the starting sensor i.e. start from the 1st sensor (i.e. with index 2 )
                     starting_sensor = s_counter[j][1]
                 ##iterating over the list to turn off all sensors and turn on the 1/4th batch 
                 counting = 0  
@@ -586,12 +588,17 @@ def Optimize(rad, sen):
                         if(s_counter[j][k]==s_counter[j][starting_sensor]):
                             starting_detected = True
                         #check if the starting sensor is detected and 1/4th of the sensors are not activated. turn on the sensor 
-                        if(starting_detected and counting<counter_temp):
+                        if(counter_1_4_th!=0):  ##if counter_1_4_th is zero then the cluster remains on and no switching is required
+                            if(starting_detected and counting < counter_1_4_th): 
+                                state_s[s_counter[j][k]][j] = 1
+                                counting+=1
+                                s_counter[j][1]+=1 ##update the starting sensor 
+                            #else turn off the sensor
+                            else:
+                                state_s[s_counter[j][k]][j] = 0
+                        else: ##the cluster will have all sensors turned on 
                             state_s[s_counter[j][k]][j] = 1
                             counting+=1
-                        #else turn off the sensor
-                        else:
-                            state_s[s_counter[j][k]][j] = 0
                 ##priniting sensors conncted to a relay
                 if(counter_temp!=0):
                     
@@ -746,12 +753,12 @@ def Optimize(rad, sen):
             file.write(strings)
 
             # ##at round 100 spill oil:
-            if(round==100):
-                oil_simulator(Fin_Conn_S_R, sensorList, PH_list_sensors)
+            # if(round==100):
+            #     oil_simulator(Fin_Conn_S_R, sensorList, PH_list_sensors)
 
-                print("Spilling oil")
-            if(round== 100+len(x.nodes) - 1):
-                reset_oil(sensorList, PH_list_sensors)
+            #     print("Spilling oil")
+            # if(round== 100+len(x.nodes) - 1):
+            #     reset_oil(sensorList, PH_list_sensors)
             if( dead_s_pc > 90 or dead_r_pc >90):
                 break 
             # print("Energy matrix Relay:")
@@ -792,7 +799,7 @@ def Optimize(rad, sen):
 
 
 
-k =6
+k =10
 radius = 30
 relay, energy = Optimize(radius, k)
 print('Radius =', radius,  ', Sensors = ', k)
