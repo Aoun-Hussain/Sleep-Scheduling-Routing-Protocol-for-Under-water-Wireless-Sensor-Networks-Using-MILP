@@ -376,7 +376,7 @@ def Optimize(rad, sen):
 ##    print("Total Number of relays deployed after steiner nodes: ", len(x.nodes))
     def Energy_s(SN,RN): 
         ### creates a matrix for sensor energy only
-        bandwidth = 100.0
+        bandwidth = 100.0 
         Energy_Sensor = [[[0] for i in range(len(RN))] for j in range(len(SN))]
         E_radio_S = 50.0 * (10 ** (-9))
         # E_radio_R = 100.0 * (10 ** (-9))
@@ -419,7 +419,7 @@ def Optimize(rad, sen):
         nw_e_r = [[0 for j in range(len(relayList))] for i in range(len(relayList))]
         for i in range(len(relayList)):
             for j in range(len(relayList)):
-                if(Fin_Conn_R_R[i][j]==1):
+                if(Fin_Conn_R_R[i][j]==1 or steiner_R_R[i][j]==1):
                     nw_e_r[i][j]=init_e_r                                                  
         
         return nw_e_r
@@ -799,7 +799,7 @@ def Optimize(rad, sen):
 
 
 
-k =100
+k =10
 radius = 30
 relay, energy = Optimize(radius, k)
 print('Radius =', radius,  ', Sensors = ', k)
