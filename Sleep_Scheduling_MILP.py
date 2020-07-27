@@ -560,7 +560,7 @@ def Optimize(rad, sen):
         ### Block 1:
         # print("check for oil leaks:")
         oil_affected_relays = Master_PH_checker(PH_list_sensors, Fin_Conn_S_R, state_s)
-        print(oil_affected_relays)
+        # print(oil_affected_relays)
         
         if (oil_affected_relays==[]):##if no oil spill detected then run normal operation
             # print("No leaks detected.\n proceed to normal protocol")
@@ -631,7 +631,7 @@ def Optimize(rad, sen):
     
     def simu_network(nw_e_s, nw_e_r, state_s):
         #intializing the rounds
-        file = open("myfile.txt", "w")
+        file = open("percentage_network.txt", "w")
         srpfile = open("srp_output.txt", "w")
         file.write("sensors: " +str(sen) +"\n")
         file.write("Relays: " + str(len(connection)) +"\n")
@@ -648,7 +648,7 @@ def Optimize(rad, sen):
         while(True):
             consumed_round_energy = 0
             #initializing dead sensors 
-            print("ROUND: ", round)
+            # print("ROUND: ", round)
             file.write("ROUND: " + str(round)+ "\n")
             srpfile.write("ROUND: " + str(round)+ "\n")
             # if(dead_r>0):
@@ -776,24 +776,32 @@ def Optimize(rad, sen):
             SRP_toggler(state_s, s_counter, PH_list_sensors, Fin_Conn_S_R, Fin_Conn_R_R, round, srpfile)
             #output energy used in the round:
             total_energy+=consumed_round_energy
-            print("Energy used in round:", consumed_round_energy)
+            # print("Energy used in round:", consumed_round_energy)
+            srpfile.write("Energy used in round: " + str(consumed_round_energy) + "\n")
             ##update round
             round+=1
             
+        file.write("total rounds: "+ str(round)+"\n")
+        # print("total rounds:", round)
 
-        print("total rounds:", round)
-        print("total Energy used:", total_energy)
+        file.write("total Energy used: "+ str(total_energy) +"\n")
+        # print("total Energy used:", total_energy)
+
         file.close()
         srpfile.close()
         return nw_e_s
 
     network_energy_s = simu_network(nw_e_s, nw_e_r, state_s)
-    file = open("myfile.txt", "a")
-    file.write("sensor residual matrix")
+    file = open("energy matrix.txt", "a")
+    file.write("sensor residual matrix"+"\n")
     for i in network_energy_s:
         file.write(str(i))
         file.write("\n")
-        print(i) 
+        # print(i) 
+    file.write("Relay residual matrix"+"\n")
+    for i in nw_e_r:
+        file.write(str(i)+"\n")
+
     file.write("Total energy used: "+ str(gamma) +"\n")
     file.close()
     print(s_counter)

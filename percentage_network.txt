@@ -1,6 +1,6 @@
 sensors: 6
 Relays: 4
-{'Relay102': ['Sensor0'], 'Relay63': ['Sensor1'], 'Relay74': ['Sensor2', 'Sensor5'], 'Relay103': ['Sensor3', 'Sensor4']}
+{'Relay80': ['Sensor0', 'Sensor4'], 'Relay96': ['Sensor1'], 'Relay79': ['Sensor2', 'Sensor3'], 'Relay107': ['Sensor5']}
 ROUND: 0
 dead relays: 0
 Dead Network pc: 0.0 % 
@@ -1848,683 +1848,683 @@ Dead Sensor pc: 0.0 %
 Dead relays pc: 0.0 % 
 ROUND: 369
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 370
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 371
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 372
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 373
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 374
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 375
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 376
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 377
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 378
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 379
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 380
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 381
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 382
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 383
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 384
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 385
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 386
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 387
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 388
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 389
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 390
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 391
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 392
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 393
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 394
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 395
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 396
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 397
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 398
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 399
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 400
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 401
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 402
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 403
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 404
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 405
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 406
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 407
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 408
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 409
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 410
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 411
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 412
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 413
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 414
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 415
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 416
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 417
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 418
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 419
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 420
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 421
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 422
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 423
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 424
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 425
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 426
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 427
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 428
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 429
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 430
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 431
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 432
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 433
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 434
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 435
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 436
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 437
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 438
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 439
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 440
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 441
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 442
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 443
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 444
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 445
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 446
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 447
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 448
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 449
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 450
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 451
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 452
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 453
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 454
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 455
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 456
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 457
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 458
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 459
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 460
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 461
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 462
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 463
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 464
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 465
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 466
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 467
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 468
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 469
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 470
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 471
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 472
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 473
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 474
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 475
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 476
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 477
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 478
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 479
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 480
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 481
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 482
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 483
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 484
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 485
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 486
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 487
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 488
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 489
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 490
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 491
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 492
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 493
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 494
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 495
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 496
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 497
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 498
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 499
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 500
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 501
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 502
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 503
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 504
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 0.0 % 
+Dead Sensor pc: 0.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 505
 dead relays: 0
@@ -2603,8 +2603,8 @@ Dead Sensor pc: 16.666666666666664 %
 Dead relays pc: 0.0 % 
 ROUND: 520
 dead relays: 0
-Dead Network pc: 8.333333333333332 % 
-Dead Sensor pc: 16.666666666666664 % 
+Dead Network pc: 16.666666666666664 % 
+Dead Sensor pc: 33.33333333333333 % 
 Dead relays pc: 0.0 % 
 ROUND: 521
 dead relays: 0
@@ -2898,323 +2898,323 @@ Dead Sensor pc: 33.33333333333333 %
 Dead relays pc: 0.0 % 
 ROUND: 579
 dead relays: 0
-Dead Network pc: 16.666666666666664 % 
-Dead Sensor pc: 33.33333333333333 % 
+Dead Network pc: 25.0 % 
+Dead Sensor pc: 50.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 580
 dead relays: 0
-Dead Network pc: 16.666666666666664 % 
-Dead Sensor pc: 33.33333333333333 % 
+Dead Network pc: 25.0 % 
+Dead Sensor pc: 50.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 581
 dead relays: 0
-Dead Network pc: 16.666666666666664 % 
-Dead Sensor pc: 33.33333333333333 % 
+Dead Network pc: 25.0 % 
+Dead Sensor pc: 50.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 582
 dead relays: 0
-Dead Network pc: 16.666666666666664 % 
-Dead Sensor pc: 33.33333333333333 % 
+Dead Network pc: 25.0 % 
+Dead Sensor pc: 50.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 583
 dead relays: 0
-Dead Network pc: 16.666666666666664 % 
-Dead Sensor pc: 33.33333333333333 % 
+Dead Network pc: 25.0 % 
+Dead Sensor pc: 50.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 584
 dead relays: 0
-Dead Network pc: 16.666666666666664 % 
-Dead Sensor pc: 33.33333333333333 % 
+Dead Network pc: 25.0 % 
+Dead Sensor pc: 50.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 585
 dead relays: 0
-Dead Network pc: 16.666666666666664 % 
-Dead Sensor pc: 33.33333333333333 % 
+Dead Network pc: 25.0 % 
+Dead Sensor pc: 50.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 586
 dead relays: 0
-Dead Network pc: 16.666666666666664 % 
-Dead Sensor pc: 33.33333333333333 % 
+Dead Network pc: 25.0 % 
+Dead Sensor pc: 50.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 587
 dead relays: 0
-Dead Network pc: 16.666666666666664 % 
-Dead Sensor pc: 33.33333333333333 % 
+Dead Network pc: 25.0 % 
+Dead Sensor pc: 50.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 588
 dead relays: 0
-Dead Network pc: 16.666666666666664 % 
-Dead Sensor pc: 33.33333333333333 % 
+Dead Network pc: 25.0 % 
+Dead Sensor pc: 50.0 % 
 Dead relays pc: 0.0 % 
 ROUND: 589
 dead relays: 0
-Dead Network pc: 16.666666666666664 % 
-Dead Sensor pc: 33.33333333333333 % 
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
 Dead relays pc: 0.0 % 
 ROUND: 590
 dead relays: 0
-Dead Network pc: 16.666666666666664 % 
-Dead Sensor pc: 33.33333333333333 % 
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
 Dead relays pc: 0.0 % 
 ROUND: 591
 dead relays: 0
-Dead Network pc: 16.666666666666664 % 
-Dead Sensor pc: 33.33333333333333 % 
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
 Dead relays pc: 0.0 % 
 ROUND: 592
 dead relays: 0
-Dead Network pc: 16.666666666666664 % 
-Dead Sensor pc: 33.33333333333333 % 
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
 Dead relays pc: 0.0 % 
 ROUND: 593
 dead relays: 0
-Dead Network pc: 16.666666666666664 % 
-Dead Sensor pc: 33.33333333333333 % 
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
 Dead relays pc: 0.0 % 
 ROUND: 594
 dead relays: 0
-Dead Network pc: 16.666666666666664 % 
-Dead Sensor pc: 33.33333333333333 % 
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
 Dead relays pc: 0.0 % 
 ROUND: 595
 dead relays: 0
-Dead Network pc: 16.666666666666664 % 
-Dead Sensor pc: 33.33333333333333 % 
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
 Dead relays pc: 0.0 % 
 ROUND: 596
 dead relays: 0
-Dead Network pc: 16.666666666666664 % 
-Dead Sensor pc: 33.33333333333333 % 
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
 Dead relays pc: 0.0 % 
 ROUND: 597
 dead relays: 0
-Dead Network pc: 16.666666666666664 % 
-Dead Sensor pc: 33.33333333333333 % 
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
 Dead relays pc: 0.0 % 
 ROUND: 598
 dead relays: 0
-Dead Network pc: 16.666666666666664 % 
-Dead Sensor pc: 33.33333333333333 % 
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
 Dead relays pc: 0.0 % 
 ROUND: 599
 dead relays: 0
-Dead Network pc: 16.666666666666664 % 
-Dead Sensor pc: 33.33333333333333 % 
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
 Dead relays pc: 0.0 % 
 ROUND: 600
 dead relays: 0
-Dead Network pc: 16.666666666666664 % 
-Dead Sensor pc: 33.33333333333333 % 
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
 Dead relays pc: 0.0 % 
 ROUND: 601
 dead relays: 0
-Dead Network pc: 16.666666666666664 % 
-Dead Sensor pc: 33.33333333333333 % 
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
 Dead relays pc: 0.0 % 
 ROUND: 602
 dead relays: 0
-Dead Network pc: 16.666666666666664 % 
-Dead Sensor pc: 33.33333333333333 % 
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
 Dead relays pc: 0.0 % 
 ROUND: 603
 dead relays: 0
-Dead Network pc: 16.666666666666664 % 
-Dead Sensor pc: 33.33333333333333 % 
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
 Dead relays pc: 0.0 % 
 ROUND: 604
 dead relays: 0
-Dead Network pc: 16.666666666666664 % 
-Dead Sensor pc: 33.33333333333333 % 
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
 Dead relays pc: 0.0 % 
 ROUND: 605
 dead relays: 0
-Dead Network pc: 16.666666666666664 % 
-Dead Sensor pc: 33.33333333333333 % 
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
 Dead relays pc: 0.0 % 
 ROUND: 606
 dead relays: 0
-Dead Network pc: 16.666666666666664 % 
-Dead Sensor pc: 33.33333333333333 % 
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
 Dead relays pc: 0.0 % 
 ROUND: 607
 dead relays: 0
-Dead Network pc: 16.666666666666664 % 
-Dead Sensor pc: 33.33333333333333 % 
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
 Dead relays pc: 0.0 % 
 ROUND: 608
 dead relays: 0
-Dead Network pc: 16.666666666666664 % 
-Dead Sensor pc: 33.33333333333333 % 
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
 Dead relays pc: 0.0 % 
 ROUND: 609
 dead relays: 0
-Dead Network pc: 16.666666666666664 % 
-Dead Sensor pc: 33.33333333333333 % 
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
 Dead relays pc: 0.0 % 
 ROUND: 610
 dead relays: 0
-Dead Network pc: 16.666666666666664 % 
-Dead Sensor pc: 33.33333333333333 % 
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
 Dead relays pc: 0.0 % 
 ROUND: 611
 dead relays: 0
-Dead Network pc: 16.666666666666664 % 
-Dead Sensor pc: 33.33333333333333 % 
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
 Dead relays pc: 0.0 % 
 ROUND: 612
 dead relays: 0
-Dead Network pc: 16.666666666666664 % 
-Dead Sensor pc: 33.33333333333333 % 
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
 Dead relays pc: 0.0 % 
 ROUND: 613
 dead relays: 0
-Dead Network pc: 16.666666666666664 % 
-Dead Sensor pc: 33.33333333333333 % 
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
 Dead relays pc: 0.0 % 
 ROUND: 614
 dead relays: 0
-Dead Network pc: 16.666666666666664 % 
-Dead Sensor pc: 33.33333333333333 % 
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
 Dead relays pc: 0.0 % 
 ROUND: 615
 dead relays: 0
-Dead Network pc: 16.666666666666664 % 
-Dead Sensor pc: 33.33333333333333 % 
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
 Dead relays pc: 0.0 % 
 ROUND: 616
 dead relays: 0
-Dead Network pc: 16.666666666666664 % 
-Dead Sensor pc: 33.33333333333333 % 
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
 Dead relays pc: 0.0 % 
 ROUND: 617
 dead relays: 0
-Dead Network pc: 16.666666666666664 % 
-Dead Sensor pc: 33.33333333333333 % 
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
 Dead relays pc: 0.0 % 
 ROUND: 618
 dead relays: 0
-Dead Network pc: 16.666666666666664 % 
-Dead Sensor pc: 33.33333333333333 % 
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
 Dead relays pc: 0.0 % 
 ROUND: 619
 dead relays: 0
-Dead Network pc: 16.666666666666664 % 
-Dead Sensor pc: 33.33333333333333 % 
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
 Dead relays pc: 0.0 % 
 ROUND: 620
 dead relays: 0
-Dead Network pc: 16.666666666666664 % 
-Dead Sensor pc: 33.33333333333333 % 
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
 Dead relays pc: 0.0 % 
 ROUND: 621
 dead relays: 0
-Dead Network pc: 16.666666666666664 % 
-Dead Sensor pc: 33.33333333333333 % 
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
 Dead relays pc: 0.0 % 
 ROUND: 622
 dead relays: 0
-Dead Network pc: 16.666666666666664 % 
-Dead Sensor pc: 33.33333333333333 % 
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
 Dead relays pc: 0.0 % 
 ROUND: 623
 dead relays: 0
-Dead Network pc: 16.666666666666664 % 
-Dead Sensor pc: 33.33333333333333 % 
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
 Dead relays pc: 0.0 % 
 ROUND: 624
 dead relays: 0
-Dead Network pc: 16.666666666666664 % 
-Dead Sensor pc: 33.33333333333333 % 
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
 Dead relays pc: 0.0 % 
 ROUND: 625
 dead relays: 0
-Dead Network pc: 16.666666666666664 % 
-Dead Sensor pc: 33.33333333333333 % 
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
 Dead relays pc: 0.0 % 
 ROUND: 626
 dead relays: 0
-Dead Network pc: 16.666666666666664 % 
-Dead Sensor pc: 33.33333333333333 % 
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
 Dead relays pc: 0.0 % 
 ROUND: 627
 dead relays: 0
-Dead Network pc: 16.666666666666664 % 
-Dead Sensor pc: 33.33333333333333 % 
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
 Dead relays pc: 0.0 % 
 ROUND: 628
 dead relays: 0
-Dead Network pc: 16.666666666666664 % 
-Dead Sensor pc: 33.33333333333333 % 
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
 Dead relays pc: 0.0 % 
 ROUND: 629
 dead relays: 0
-Dead Network pc: 16.666666666666664 % 
-Dead Sensor pc: 33.33333333333333 % 
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
 Dead relays pc: 0.0 % 
 ROUND: 630
 dead relays: 0
-Dead Network pc: 16.666666666666664 % 
-Dead Sensor pc: 33.33333333333333 % 
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
 Dead relays pc: 0.0 % 
 ROUND: 631
 dead relays: 0
-Dead Network pc: 16.666666666666664 % 
-Dead Sensor pc: 33.33333333333333 % 
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
 Dead relays pc: 0.0 % 
 ROUND: 632
 dead relays: 0
-Dead Network pc: 16.666666666666664 % 
-Dead Sensor pc: 33.33333333333333 % 
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
 Dead relays pc: 0.0 % 
 ROUND: 633
 dead relays: 0
-Dead Network pc: 16.666666666666664 % 
-Dead Sensor pc: 33.33333333333333 % 
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
 Dead relays pc: 0.0 % 
 ROUND: 634
 dead relays: 0
-Dead Network pc: 16.666666666666664 % 
-Dead Sensor pc: 33.33333333333333 % 
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
 Dead relays pc: 0.0 % 
 ROUND: 635
 dead relays: 0
-Dead Network pc: 16.666666666666664 % 
-Dead Sensor pc: 33.33333333333333 % 
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
 Dead relays pc: 0.0 % 
 ROUND: 636
 dead relays: 0
-Dead Network pc: 16.666666666666664 % 
-Dead Sensor pc: 33.33333333333333 % 
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
 Dead relays pc: 0.0 % 
 ROUND: 637
 dead relays: 0
-Dead Network pc: 16.666666666666664 % 
-Dead Sensor pc: 33.33333333333333 % 
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
 Dead relays pc: 0.0 % 
 ROUND: 638
 dead relays: 0
-Dead Network pc: 16.666666666666664 % 
-Dead Sensor pc: 33.33333333333333 % 
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
 Dead relays pc: 0.0 % 
 ROUND: 639
 dead relays: 0
-Dead Network pc: 16.666666666666664 % 
-Dead Sensor pc: 33.33333333333333 % 
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
 Dead relays pc: 0.0 % 
 ROUND: 640
 dead relays: 0
-Dead Network pc: 25.0 % 
-Dead Sensor pc: 50.0 % 
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
 Dead relays pc: 0.0 % 
 ROUND: 641
 dead relays: 0
-Dead Network pc: 25.0 % 
-Dead Sensor pc: 50.0 % 
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
 Dead relays pc: 0.0 % 
 ROUND: 642
 dead relays: 0
-Dead Network pc: 25.0 % 
-Dead Sensor pc: 50.0 % 
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
 Dead relays pc: 0.0 % 
 ROUND: 643
 dead relays: 0
@@ -3512,19 +3512,124 @@ Dead Network pc: 33.33333333333333 %
 Dead Sensor pc: 66.66666666666666 % 
 Dead relays pc: 0.0 % 
 ROUND: 702
+dead relays: 0
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
+Dead relays pc: 0.0 % 
+ROUND: 703
+dead relays: 0
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
+Dead relays pc: 0.0 % 
+ROUND: 704
+dead relays: 0
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
+Dead relays pc: 0.0 % 
+ROUND: 705
+dead relays: 0
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
+Dead relays pc: 0.0 % 
+ROUND: 706
+dead relays: 0
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
+Dead relays pc: 0.0 % 
+ROUND: 707
+dead relays: 0
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
+Dead relays pc: 0.0 % 
+ROUND: 708
+dead relays: 0
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
+Dead relays pc: 0.0 % 
+ROUND: 709
+dead relays: 0
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
+Dead relays pc: 0.0 % 
+ROUND: 710
+dead relays: 0
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
+Dead relays pc: 0.0 % 
+ROUND: 711
+dead relays: 0
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
+Dead relays pc: 0.0 % 
+ROUND: 712
+dead relays: 0
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
+Dead relays pc: 0.0 % 
+ROUND: 713
+dead relays: 0
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
+Dead relays pc: 0.0 % 
+ROUND: 714
+dead relays: 0
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
+Dead relays pc: 0.0 % 
+ROUND: 715
+dead relays: 0
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
+Dead relays pc: 0.0 % 
+ROUND: 716
+dead relays: 0
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
+Dead relays pc: 0.0 % 
+ROUND: 717
+dead relays: 0
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
+Dead relays pc: 0.0 % 
+ROUND: 718
+dead relays: 0
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
+Dead relays pc: 0.0 % 
+ROUND: 719
+dead relays: 0
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
+Dead relays pc: 0.0 % 
+ROUND: 720
+dead relays: 0
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
+Dead relays pc: 0.0 % 
+ROUND: 721
+dead relays: 0
+Dead Network pc: 33.33333333333333 % 
+Dead Sensor pc: 66.66666666666666 % 
+Dead relays pc: 0.0 % 
+ROUND: 722
 dead relays: 1
 Dead Network pc: 51.66666666666667 % 
 Dead Sensor pc: 83.33333333333334 % 
 Dead relays pc: 20.0 % 
-ROUND: 703
+ROUND: 723
+dead relays: 1
+Dead Network pc: 51.66666666666667 % 
+Dead Sensor pc: 83.33333333333334 % 
+Dead relays pc: 20.0 % 
+ROUND: 724
+dead relays: 1
+Dead Network pc: 51.66666666666667 % 
+Dead Sensor pc: 83.33333333333334 % 
+Dead relays pc: 20.0 % 
+ROUND: 725
 dead relays: 2
 Dead Network pc: 70.0 % 
 Dead Sensor pc: 100.0 % 
 Dead relays pc: 40.0 % 
-sensor residual matrix[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1.850686428395479e-06, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
-[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9.899621122370511e-06, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
-[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.00019115190571399455, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
-[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.0013117517550816247, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
-[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2.748883352264906e-06, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
-[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2.181836048680791e-06, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
-Total energy used: 0.0003367770011748665
+total rounds: 725
+total Energy used: 0.3592874098593203
