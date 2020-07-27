@@ -1,0 +1,4218 @@
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors
+For 63'th relay. resetting cycle
+Relay: 63 has 1 active sensors out of 1 sensors
+Relay: 74 has 2 active sensors out of 2 sensors
+For 102'th relay. resetting cycle
+Relay: 102 has 1 active sensors out of 1 sensors
+Relay: 103 has 2 active sensors out of 2 sensors

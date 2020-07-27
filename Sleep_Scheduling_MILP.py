@@ -10,7 +10,7 @@ import networkx as nx
 def Optimize(rad, sen):
     width = 100.0              ##100 by 100 meters of square field
     R = float(rad)             ##Radius of communication of each node
-    relayConstraint = 121  ##Total relays to be deployed
+    relayConstraint = 121        ##Total relays to be deployed
     sensorList = []
     relayList = []
     
@@ -551,7 +551,7 @@ def Optimize(rad, sen):
 
     
 
-    def SRP_toggler(state_s,  s_counter, PH_list_sensors, Fin_Conn_S_R, Fin_Conn_R_R, round):
+    def SRP_toggler(state_s,  s_counter, PH_list_sensors, Fin_Conn_S_R, Fin_Conn_R_R, round, srpfile):
         
         
         ### The following code is divided into 2 blocks.
@@ -574,7 +574,8 @@ def Optimize(rad, sen):
 
                 ##check if all 4 batches have been activated. If so then reset the starting sensor
                 if(starting_sensor >= len(s_counter[j])-1 and counter_temp!=0):
-                    print("For", j, "'th relay. resetting cycle")
+                    srpfile.write("For "+ str(j) +"'th relay. resetting cycle\n")
+                    # print("For", j, "'th relay. resetting cycle")
                     s_counter[j][1] = 2  ##reset the starting sensor i.e. start from the 1st sensor (i.e. with index 2 )
                     starting_sensor = s_counter[j][1]
                 ##iterating over the list to turn off all sensors and turn on the 1/4th batch 
@@ -601,12 +602,14 @@ def Optimize(rad, sen):
                             counting+=1
                 ##priniting sensors conncted to a relay
                 if(counter_temp!=0):
-                    
-                    print("Relay: ", j , " has ", counting, " active sensors out of ", len(s_counter[j]) -2, " sensors")
+                    srpfile.write("Relay: "+ str(j) + " has "+ str(counting)+ " active sensors out of "+ str(len(s_counter[j]) -2)+ " sensors\n")
+                    # print("Relay: ", j , " has ", counting, " active sensors out of ", len(s_counter[j]) -2, " sensors")
         else:
-            print("Oil Detected in Round: ", round+len(x.node)-1)
+            srpfile.write("Oil Detected in Round: "+ str(round)+" "+str(len(x.node)-1) +"\n")
+            # print("Oil Detected in Round: ", round+len(x.node)-1)
             #turn on all sensors in the oil detected relays:
-            print("Oil leak detected. Turning on all sensors in all affected clusters")
+            # print("Oil leak detected. Turning on all sensors in all affected clusters")
+            srpfile.write("Oil leak detected. Turning on all sensors in all affected clusters\n")
             for i in oil_affected_relays: 
                 for j in range(len(state_s)):
                     if(Fin_Conn_R_R[j][i]==1): #check if the sensor is connected to the relay
@@ -625,11 +628,11 @@ def Optimize(rad, sen):
                     
 
 
-
     
     def simu_network(nw_e_s, nw_e_r, state_s):
         #intializing the rounds
-        file = open("myfile.txt", "a")
+        file = open("myfile.txt", "w")
+        srpfile = open("srp_output.txt", "w")
         file.write("sensors: " +str(sen) +"\n")
         file.write("Relays: " + str(len(connection)) +"\n")
         file.write(str(connection))
@@ -647,6 +650,7 @@ def Optimize(rad, sen):
             #initializing dead sensors 
             print("ROUND: ", round)
             file.write("ROUND: " + str(round)+ "\n")
+            srpfile.write("ROUND: " + str(round)+ "\n")
             # if(dead_r>0):
             #     # print("Ah ha!")
             #     break
@@ -769,7 +773,7 @@ def Optimize(rad, sen):
             #     print(x)
 
             ##toggles the state of the sensors (SRP implimented here)
-            SRP_toggler(state_s, s_counter, PH_list_sensors, Fin_Conn_S_R, Fin_Conn_R_R, round)
+            SRP_toggler(state_s, s_counter, PH_list_sensors, Fin_Conn_S_R, Fin_Conn_R_R, round, srpfile)
             #output energy used in the round:
             total_energy+=consumed_round_energy
             print("Energy used in round:", consumed_round_energy)
@@ -780,6 +784,7 @@ def Optimize(rad, sen):
         print("total rounds:", round)
         print("total Energy used:", total_energy)
         file.close()
+        srpfile.close()
         return nw_e_s
 
     network_energy_s = simu_network(nw_e_s, nw_e_r, state_s)
@@ -799,7 +804,7 @@ def Optimize(rad, sen):
 
 
 
-k =10
+k =6
 radius = 30
 relay, energy = Optimize(radius, k)
 print('Radius =', radius,  ', Sensors = ', k)
