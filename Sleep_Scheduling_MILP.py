@@ -415,7 +415,7 @@ def Optimize(rad, sen):
 
     def init_Energy_r():
         ### creates a matrix for the simulation to use (stores the energy of relays)
-        init_e_r = 0.05;   
+        init_e_r = 0.005;   
         nw_e_r = [[0 for j in range(len(relayList))] for i in range(len(relayList))]
         for i in range(len(relayList)):
             for j in range(len(relayList)):
@@ -427,7 +427,7 @@ def Optimize(rad, sen):
     nw_e_r = init_Energy_r()
 
     def init_Energy_s():
-        init_e_s = 0.005
+        init_e_s = 0.0005
         nw_e_s = [[0 for j in range(len(relayList))] for i in range(len(sensorList))]
         for i in range(len(sensorList)):
             for j in range(len(relayList)):
@@ -812,7 +812,7 @@ def Optimize(rad, sen):
 
 
 
-k =6
+k =300
 radius = 30
 relay, energy = Optimize(radius, k)
 print('Radius =', radius,  ', Sensors = ', k)
