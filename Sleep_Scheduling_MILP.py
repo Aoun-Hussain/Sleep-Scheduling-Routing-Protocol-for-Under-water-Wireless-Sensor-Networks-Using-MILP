@@ -756,13 +756,14 @@ def Optimize(rad, sen):
             strings = "Dead relays pc: "+ str(dead_r_pc)+ " % \n"
             file.write(strings)
 
-            # ##at round 100 spill oil:
-            # if(round==100):
-            #     oil_simulator(Fin_Conn_S_R, sensorList, PH_list_sensors)
+            ##at round 100 spill oil:
+            if(round==30):
+                oil_simulator(Fin_Conn_S_R, sensorList, PH_list_sensors)
 
-            #     print("Spilling oil")
-            # if(round== 100+len(x.nodes) - 1):
-            #     reset_oil(sensorList, PH_list_sensors)
+                print("Spilling oil")
+            if(round== 30+len(x.nodes) - 1):
+                reset_oil(sensorList, PH_list_sensors)
+                
             if( dead_s_pc > 90 or dead_r_pc >90):
                 break 
             # print("Energy matrix Relay:")
@@ -812,7 +813,7 @@ def Optimize(rad, sen):
 
 
 
-k =300
+k =100
 radius = 30
 relay, energy = Optimize(radius, k)
 print('Radius =', radius,  ', Sensors = ', k)
