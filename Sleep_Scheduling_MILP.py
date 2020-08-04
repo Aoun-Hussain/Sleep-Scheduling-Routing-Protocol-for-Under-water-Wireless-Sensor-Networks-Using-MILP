@@ -612,7 +612,7 @@ def Optimize(rad, sen):
             srpfile.write("Oil leak detected. Turning on all sensors in all affected clusters\n")
             for i in oil_affected_relays: 
                 for j in range(len(state_s)):
-                    if(Fin_Conn_R_R[j][i]==1): #check if the sensor is connected to the relay
+                    if(Fin_Conn_S_R[j][i]==1): #check if the sensor is connected to the relay
                         ##turn it on:
                         state_s[j][i] = 1 
             # print("check neighboring cluster heads PH")
@@ -813,7 +813,7 @@ def Optimize(rad, sen):
 
 
 
-k =2
+k =100
 radius = 30
 relay, energy = Optimize(radius, k)
 print('Radius =', radius,  ', Sensors = ', k)
